@@ -1,0 +1,5879 @@
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Folder>
+    <name>Task Force</name>
+    <description>EXAMPLE ONLY! INCOMPLETE DATA! Wikileaks AFG War Diary: Task Force v0.1</description>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.32630157,33.52830124</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DRUID Explosive Hazard Report Migrated</description>
+      <name>TF87260</name>
+      <Point>
+        <coordinates>66.61666107,36.76082993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>62.60269928,32.66220093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.41249847,31.51230049</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>70.17700195,33.44459915</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.79740143,32.02220154</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DRUID Explosive Hazard Report Migrated</description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>62.22565079,34.21461868</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.41799927,31.48060036</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>67.36160278,31.97920036</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF33</name>
+      <Point>
+        <coordinates>69.66179657,34.84719849</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.24590302,33.09690094</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.34770203,32.02819824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>Explosive Hazard report merged from ISAF database</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.43070221,31.52370071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK)  : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.25274658,34.94071579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED)  : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.06819153,32.68579483</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) OTHER RPT   TF 66 IS : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.78607178,33.16320801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   ANP / PRT MES : 0 INJ/DAM</description>
+      <name>TF84609</name>
+      <Point>
+        <coordinates>66.58551788,36.80712891</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components)  : 2 UE DET </description>
+      <name>TF872</name>
+      <Point>
+        <coordinates>62.86059952,32.46691513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components)  : 2 UE DET </description>
+      <name>TF87</name>
+      <Point>
+        <coordinates>62.86059952,32.46691513</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) ABP : 6 ANSF KIA 2 ANSF WIA 3 UE KIA </description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>66.72705078,31.57616997</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) ATTACK RPT  (Small Arms) TF EAGLE ASSAULT : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.07008362,31.71130562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   B CO TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.06079865,31.70419502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED AMBUSH RPT  (UNK) COMPASS CONVOY / 2-2 INF : 1 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.85211182,31.70203972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT   A CO TF 2-2 : 5 UE DET </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.18045044,31.53990173</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT  (Components) TF 2-2 : 2 UE KIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.04628754,31.60926247</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT  (Components) TF 2-2 INF : 5 UE KIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.10331726,31.60307693</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Rocket) 3-71 CAV : 0 INJ/DAM</description>
+      <name>TF333</name>
+      <Point>
+        <coordinates>69.05241394,34.17679214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ESCALATION OF FORCE RPT   TF 373 (TM SAL)/ANSF : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.92311859,33.34305954</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms)  POLISH TF 49 : 0 INJ/DAM</description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>68.39944458,33.26440048</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) AMBUSH RPT   US PRT : 0 INJ/DAM</description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>68.50415039,33.39123154</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   ISAF#06-1248 : 0 INJ/DAM</description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>68.59812164,33.40374756</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   ASG / 3-71 CAV : 1 UE DET </description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>68.95731354,33.82524109</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(NON-COMBAT EVENT) DOWNED AIRCRAFT RPT   TF WHITE EAGLE : 0 INJ/DAM</description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>68.95518494,34.56589508</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CORDON/SEARCH RPT   OCF : 1 CIV WIA 1 UE KIA 4 UE DET </description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.04777527,34.17361069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) ANP : 0 INJ/DAM</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>68.75784302,34.08574677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) MEDEVAC RPT   TF VOLUNTEER : 0 INJ/DAM</description>
+      <name>TF1-108</name>
+      <Point>
+        <coordinates>69.37499237,34.56167221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) MEDEVAC RPT   TF WHITE EAGLE : 0 INJ/DAM</description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>68.28996277,33.55905914</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(NON-COMBAT EVENT) ACCIDENT RPT   TF 1-121 : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.70928192,33.94010925</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Rocket,Small Arms) TF 1-121  : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.82286072,33.80675888</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Mortar) A CO 1-121  : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.11443329,33.49324417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) ATTACK RPT  (Mortar,RPG,Small Arms) TF 1-121 : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.16809082,33.59134293</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   TF 1-121 : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.70809937,33.93712234</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF 1-121 : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.72593689,33.79533386</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(SUSPICIOUS INCIDENT) SURVEILLANCE RPT    : 0 INJ/DAM</description>
+      <name>TF9524</name>
+      <Point>
+        <coordinates>66.70645905,36.74691391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(SUSPICIOUS INCIDENT) SURVEILLANCE RPT    : 0 INJ/DAM</description>
+      <name>TF9140</name>
+      <Point>
+        <coordinates>66.70645905,36.74691391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) TF DESTINY : 0 INJ/DAM</description>
+      <name>TF5-101</name>
+      <Point>
+        <coordinates>65.39575195,31.51710701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) TF DESTINY : 0 INJ/DAM</description>
+      <name>TF5-101</name>
+      <Point>
+        <coordinates>65.39575195,31.51710701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF ORUZGAN : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.91461945,32.71274567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT  (Components) TF 32 IVO  (ROUTE MULE): 0 INJ/DAM</description>
+      <name>TF32</name>
+      <Point>
+        <coordinates>66.75383759,32.29634857</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(OTHER) OTHER RPT    : 0 INJ/DAM</description>
+      <name>TF9524</name>
+      <Point>
+        <coordinates>66.70645905,36.74691391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(OTHER) OTHER RPT    : 0 INJ/DAM</description>
+      <name>TF9140</name>
+      <Point>
+        <coordinates>66.70645905,36.74691391</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) TF DESTINY : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>68.79509735,33.42019272</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (RPG) TF EAGLE ASSAULT : 0 INJ/DAM</description>
+      <name>TF5-101</name>
+      <Point>
+        <coordinates>64.77352142,31.93974686</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT   TASK FORCE 10-2 : 1 UE WIA </description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>69.65130615,34.86484909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms,RPG) TF DESTINY : 0 INJ/DAM</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>64.91902924,32.12036896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) TF DESTINY : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>68.13439178,33.18869781</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (RPG,Small Arms) TF DESTINY : 0 INJ/DAM</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>64.91902924,32.12036896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED)  : 0 INJ/DAM</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>67.31383514,32.12548828</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(SUSPICIOUS INCIDENT) SURVEILLANCE RPT   ARSIC-N : 0 INJ/DAM</description>
+      <name>TF56821</name>
+      <Point>
+        <coordinates>66.27351379,36.82312775</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (RPG) TF EAGLE ASSAULT : 0 INJ/DAM</description>
+      <name>TF873</name>
+      <Point>
+        <coordinates>62.18011093,33.18666077</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (RPG,Small Arms) TF DESTIDNY : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.52045441,33.19846725</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED AMBUSH RPT  (UNK) SOCCE/ TF 66 : 1 CF WIA </description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.18263245,32.43634796</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) JMCC/COMPASS CONVOY IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF22</name>
+      <Point>
+        <coordinates>65.03475189,31.61987305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) ANA : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.92780304,31.66807747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,RPG) CS 32 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.37477112,31.56169128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) 73D  IVO  (ROUTE TEXAS): 8 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.48952484,31.59866524</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(OTHER) OTHER RPT   TF 45 : 0 INJ/DAM</description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>62.24889755,33.33429718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) SOCCE / TF 66 : 2 CF WIA </description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.88872528,32.70343018</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (RPG) TF SHADOW : 0 INJ/DAM</description>
+      <name>TF52</name>
+      <Point>
+        <coordinates>68.72277832,34.40023804</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) CHARLIE COMPANY (COMANCHE) IVO  (ROUTE MSR TEXAS): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.50881958,31.61143684</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) DELTA COMPANY TF 2-2 IN IVO  (ROUTE MSR TEXAS): 1 UE DET </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.46279144,31.58834457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Rocket) TF 2-2 IN : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.97952271,31.66353226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Rocket) TF 2-2 IN : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.95069122,31.64598083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) CJSOTF/SC20 : 1 CF WIA </description>
+      <name>TF11</name>
+      <Point>
+        <coordinates>65.06673431,32.15100479</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(CRIMINAL EVENT) ARSON RPT   ANP : 0 INJ/DAM</description>
+      <name>TF2-506</name>
+      <Point>
+        <coordinates>68.94762421,32.86660385</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (RPG) UNK : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.08135223,33.74658203</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED AMBUSH RPT  (CWIED) TF KANDAHAR/USPI : 3 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.04029083,31.63241196</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED SUSPECTED RPT   TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.24957275,31.57305717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90861511,31.55164528</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) RC SOUTH/ TF KANDAHAR : 1 CF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.16435242,31.52664566</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) TF KANDAHAR / ARSIC IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.84141541,31.70489311</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   RC SOUTH/ TF HELMAND/ TF 444 : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.25384521,31.02386665</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   TF KANDAHAR/ANA (1/1/205) IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.93565369,31.67012215</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) ASG / TF 71 : 1 ANSF WIA </description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>64.81531525,32.00600433</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   TF 77 : 0 INJ/DAM</description>
+      <name>TF77</name>
+      <Point>
+        <coordinates>66.73404694,32.04904938</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TF KANDAHAR (D CO, 2-2 INF) : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.95159912,31.66043663</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) TF DESTINY : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.63716888,33.24916458</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) JMCC/COMPASS CONVOY IVO  (ROUTE HWY 1): 1 ANSF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.04257202,31.63046455</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) TF KANDAHAR/ANP (2/1/205) WITH CAN OMLT : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03695679,31.63399887</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF49 / ANP : 2 ANSF KIA 5 ANSF WIA </description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>66.63204956,31.75152969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   D CO, TF2-2 / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.94456482,31.66764259</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) SC36  : 0 INJ/DAM</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>66.07098389,32.12437439</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   LN CIV / TF2-2 RCP / TF KANDAHAR/DO : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90420532,31.67961502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) ANA (3/1/205) WITH CAN OMLT / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90525818,31.67959976</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF 2-2 RCP / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90441132,31.67925262</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED)  B COY TF2-2 / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.99571991,31.69246864</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT    : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) D COY 2-2 INF : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.99394989,31.70855141</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED HOAX RPT   ANA (4/1/205) : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90420532,31.67961502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) D CO 2-2 INF IVO  (ROUTE OHIO): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.01158905,31.64098549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   ANA : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.94619751,31.65507889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) ANA : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90411377,31.67510796</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) ANA : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.92817688,31.66572571</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) RCP / TF 2-2 INF : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.07627869,31.69560051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) ANA (4/1/205) IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.88533783,31.68530846</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED AMBUSH RPT  (VOIED) ANP : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05083466,31.63224411</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) TF KANDAHAR/CIVILIAN CONVOY IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.11695862,31.60103798</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   CRF COY RBGS W/ 42 CDO GP : 5 UE DET </description>
+      <name>TF333</name>
+      <Point>
+        <coordinates>64.30886841,31.44016457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) B COY 2-2 INF : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.19293976,31.57261658</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) ISAF CONTRACTED LN : 1 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.19573212,31.57625771</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) SOCCE/TF71 : 1 ANSF WIA </description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>65.56499481,32.94220734</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) TF-714 : 0 INJ/DAM</description>
+      <name>TF714</name>
+      <Point>
+        <coordinates>69.50904846,33.34958649</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) ANA (4/1/205) WITH CAN OMLT IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.86656952,31.69640923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) ANA (1/1/205) WITH CAN OMLT : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.19303131,31.58685684</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) B COY2-6 / TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.06046295,31.64823341</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   3/8 USMC : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>63.66360474,32.61426544</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) A COY TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.19515228,31.56941414</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TF 2-2 C COY : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05198669,31.58893013</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) RAF : 0 INJ/DAM</description>
+      <name>TF42</name>
+      <Point>
+        <coordinates>65.94949341,32.80641556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) RAF : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.94949341,32.80641556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (SVBIED) TF 2-2 INF C COY : 2 CF KIA 9 CF WIA 1 CIV KIA 11 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05365753,31.62542534</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) ANA (1/1/205) WITH D COY 2-2 INF : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.84254456,31.70848465</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) 2-2 INF : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05275726,31.62409592</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   ANP : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.89780426,31.67610359</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   A CO, TF 2-2  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.16332245,31.53458214</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) ANP : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03510284,31.63610268</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED)  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.21111298,31.51268578</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) MINE FOUND/CLEARED RPT  (VOIED) C COY 2-2 INF : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05212402,31.64304733</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) TF KANDAHAR/B CO, TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.04091644,31.68516731</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   TFZ/ BTL/ TF 31 : 0 INJ/DAM</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>66.90703583,32.13482666</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) MINE FOUND/CLEARED RPT  (VOIED) CIVSEC (TUNDRA) : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03902435,31.62251091</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) D CO. TF 2-2  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.21995544,31.51466942</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT   TF KANDAHAR/A CO TF 2-2 INF : 1 CF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.15683746,31.52045822</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   TFK/ TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.21425629,31.50681305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF GUARDIAN : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TF KANDAHAR/D CO TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.18045044,31.53990173</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TFK/ TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.21453094,31.50233459</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) A CO TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.21315765,31.51128769</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   TFK/TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.09698486,31.53861809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   B CO. TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.23177338,31.50582314</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) TF BAYONET IVO  (ROUTE PHILADELPHIA): 0 INJ/DAM</description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>70.35424042,34.80592728</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TFK/ TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90419006,31.67871475</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TFH/ D COY TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.87813568,31.68927574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) MEDEVAC RPT   TF WARRIOR ( 1 X US MIL NBI) : 0 INJ/DAM</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>69.64247894,34.85588837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TF KANDAHAR/C CO TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03276825,31.65472221</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) TF KANDAHAR/C CO TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03092957,31.65276718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TF KANDAHAR/A CO TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.22264862,31.50419617</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) A CO TF2-2 / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03073883,31.68565559</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) B COY TF 2-2 / TF ANZIO : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.07366943,31.63809776</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) A CO. TF 2-2 / TF KANDAHAR : 1 UE DET </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.21178436,31.52825928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   C CO TF 2-2/ANP / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.02985382,31.63708878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) SOCCE / TF 66 : 1 CF WIA </description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.03813171,32.44237518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) A CO. TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.21279907,31.52532005</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) D CO TF2-2 / TF KANDAHAR IVO  (ROUTE TEXAS): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.86479187,31.69196892</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) B CO TF2-2 / TF KANDAHAR : 1 CF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.07732391,31.64787102</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) B COY TF 2-2 / TFK IVO  (ROUTE EDMONTON): 1 CF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.26711273,31.55022621</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   C CO. TF 2-2 / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.04924774,31.61296654</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) D CO TF 2-2 / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.25279999,31.54874802</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TFK/D COY TF 2-2TFK/D COY TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.88934326,31.62592316</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TFK/A COY TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.26000977,31.48814583</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) C COY / TF 2-2 / TFK : 3 CF WIA 1 HNSF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03514099,31.62002945</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNKNOWN EXPLOSION RPT   LN CIV / TF2-2 / TF KANDAHAR : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.23921967,31.55668831</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   TFK/B CO. TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.09172821,31.65732193</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) D CO. TF 2-2 / TFK : 1 CF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.35894012,31.48920059</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) A CO. TF 2-2 / TF K : 2 CF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.37646484,31.49537086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) B CO. 2-2 IN / 3 BCT / 1 ID : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.01226044,31.65243149</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   A COY 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.88599396,31.68665123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) D CO. TF 2-2  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03922272,31.64118004</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   C COY TF 2-2 / TFK : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05383301,31.62497902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) ANA W/D CO. TF 2-2 : 1 CF WIA 1 HNSF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.48262024,31.58961105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) C CO. TF 2-2 : 3 CF WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05226135,31.60606384</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   C CO. TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05560303,31.60952759</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) D CO. TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.94262695,31.65053368</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   TF 2-2 IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.90232849,31.68072701</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) A COY TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.18557739,31.57886696</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) A CO TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.24182892,31.57437515</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT    : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) TF 1-12 : 7 CIV KIA 4 CIV WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.83076477,31.70928574</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) B COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.18160248,31.55658913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(CRIMINAL EVENT) KIDNAPPING RPT   B CO 1-501 PIR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>68.56378174,32.96847916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) B CO TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.25259399,31.57294083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   C CO TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.03996277,31.62204552</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) A COY TF1-12 : 4 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.23262024,31.57815361</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   A COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.00373077,31.62343025</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   ANA WITH CAN OMLT : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.83830261,31.70764351</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   C CO TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.98262024,31.64685249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) TF 1-12 IVO  (ROUTE HWY 1): 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.02778625,31.63892555</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF373  : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT    : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) ANA W/ CAN OMLT : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.79426575,31.72180176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) B COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.16771698,31.52228546</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) D CO TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.55795288,31.50650787</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) C CO TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.07344818,31.62386894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) C CO. TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.06568146,31.64913368</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF LONE STAR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) TF 1-12 : 2 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.19833374,31.52641678</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) RAID RPT   ANSF / TF 42 : 4 UE KIA </description>
+      <name>TF42</name>
+      <Point>
+        <coordinates>64.96577454,32.19192123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) D CO TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.03403473,31.62087631</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF LONESTAR : 0 INJ/DAM</description>
+      <name>TF3-73</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SAFIRE RPT  (Small Arms) TF EAGLE LIFT : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.40390778,33.26167679</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) D CO TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.97686005,31.66045189</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) THOR 1-2 : 1 UE DET </description>
+      <name>TF1-17</name>
+      <Point>
+        <coordinates>65.77115631,31.79501724</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ERW RECOVERED RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF3-73</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) TF 373 : 1 CF WIA </description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>65.64099884,31.69409943</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED SUSPECTED RPT   C COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.01655579,31.66102219</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF3-73</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF 42 : 1 CF KIA 5 CF WIA 1 HNSF WIA </description>
+      <name>TF42</name>
+      <Point>
+        <coordinates>64.76330566,31.91650963</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF3-73</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) EVIDENCE TURN-IN/RECEIVED RPT    : 0 INJ/DAM</description>
+      <name>TF72</name>
+      <Point>
+        <coordinates>65.87517548,32.60434723</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) B CO. TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.25824738,31.47123909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) 10 SQN CLSR : 0 INJ/DAM</description>
+      <name>TF72</name>
+      <Point>
+        <coordinates>64.86709595,31.93272209</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) SOTF 72 - 7225 : 0 INJ/DAM</description>
+      <name>TF601</name>
+      <Point>
+        <coordinates>66.64028931,32.94355011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   A COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.85395813,31.70155334</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) THOR 4-3 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.55541229,31.62737656</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) DO IVO  (ROUTE HWY 1): 15 CIV KIA 16 CIV WIA </description>
+      <name>TF2-1</name>
+      <Point>
+        <coordinates>66.29340363,31.55222321</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) EOD 755A/8 : 0 INJ/DAM</description>
+      <name>TF333</name>
+      <Point>
+        <coordinates>69.07744598,34.19003677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) COMPASS CONVOY #6 : 1 CIV KIA 3 CIV WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.03697968,31.63408089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) ISAF COUNTER IED  : 3 UE KIA 3 UE WIA </description>
+      <name>TF51</name>
+      <Point>
+        <coordinates>69.21999359,34.62088394</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   USPMT IVO  (ROUTE OHIO): 0 INJ/DAM</description>
+      <name>TF1-2</name>
+      <Point>
+        <coordinates>65.03714752,31.63336563</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) 630 ENG CO / TF 1-12 : 1 CF KIA 5 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.50182343,31.60589218</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) OMLT 71C : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.31575012,31.55883408</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   ANA WITH CDN OMLT : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.30666351,31.53326607</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) 3/1/205 ANA/WPNS CO &amp; OMLT73 : 0 INJ/DAM</description>
+      <name>TF1-17</name>
+      <Point>
+        <coordinates>65.59320068,31.67477226</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) THOR 2-3 : 4 CF KIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.56977081,31.62462616</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   TF 81 : 0 INJ/DAM</description>
+      <name>TF81</name>
+      <Point>
+        <coordinates>69.32437134,34.53006744</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) E CO 1-6 / TF 1-12  : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.25476837,31.57143211</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED HOAX RPT   TF 1-12 : 1 UE DET </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.41292572,31.57086945</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF 1-12 : 1 CF KIA 1 CF WIA 5 UE KIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.33569336,31.55303192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(NON-COMBAT EVENT) DOWNED AIRCRAFT RPT   CJSOTV : 10 CF KIA 11 CF WIA 14 HNSF WIA </description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>63.46095276,35.12633896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ERW RECOVERED RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) CDN OMLT 71C WITH 1/1/205 ANA : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.38026428,31.57060814</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TF 66 : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.24211884,33.20879364</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TF 66  : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.94177246,32.65221786</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ERW RECOVERED RPT   SUB GOVERNOR : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.70815277,33.93717575</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT  (Components) TF 1-12 : 3 UE WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43267822,31.56484032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TFH 1 COLDM GDS 1 COY W/ TF 444 TIGER TEAM : 1 CF KIA 6 CF WIA </description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.39772034,31.72550392</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) SFODA 7213 / TF13 : 0 INJ/DAM</description>
+      <name>TF13</name>
+      <Point>
+        <coordinates>64.89950562,31.92944717</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) CRU ANP : 1 HNSF KIA 2 HNSF WIA </description>
+      <name>TF81</name>
+      <Point>
+        <coordinates>69.25910187,34.45285416</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT  (Missile,Artillery) TAC-P TF 1-121 : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.22709656,33.59775162</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) TF1-12 D33 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.55712891,31.62755013</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED SUSPECTED RPT   B COY 1 SCOTS : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.84850311,32.06017303</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TFH 1 COLDM GDS : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.40088654,31.71823502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TFH 3 COY W/ TF444 TIGER TM 3 : 1 CF WIA 1 CIV WIA </description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.40287018,31.71696854</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) CAN OMLT 71B : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.48245239,31.59463692</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   PRT MEZ : 0 INJ/DAM</description>
+      <name>TF939866</name>
+      <Point>
+        <coordinates>66.70580292,36.74642563</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   TF 45 : 0 INJ/DAM</description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>62.26524353,34.24181747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) TFK / TF 1-12 : 2 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.52337646,31.61507225</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VBIED) TM SAL 373 : 3 CF WIA 1 HNSF WIA </description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.92079163,33.51257706</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAINEE TRANSFER RPT   TF PROTECTOR : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94613647</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TF 444  UK : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.22171783,31.43624306</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   TFK TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.40473938,31.57601166</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TFK TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.39138031,31.57135582</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT   TF 373 : 0 INJ/DAM</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>70.16046906,34.90909958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   1 COLDM GDS 1 COY : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.40007019,31.71979523</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) B COY 1 SCOTS : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.84533691,32.06169891</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.45639801,33.32027817</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.42804718,33.38222122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.32111359,33.84167099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-87</name>
+      <Point>
+        <coordinates>69.26526642,32.89999008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.30388641,33.80722046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF1-87</name>
+      <Point>
+        <coordinates>69.44695282,32.89749908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>190000Z Jan 04 DIRECT FIRE  Salerno</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.97834015,33.37250137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-22</name>
+      <Point>
+        <coordinates>64.01112366,33.42625046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.26612091,33.45888901</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.28166962,33.70138931</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.38249969,33.32332993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>70.01889038,33.27389145</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.95777893,33.33776855</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.39888763,33.37026978</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.42888641,33.56111145</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Other</description>
+      <name>TF2-22</name>
+      <Point>
+        <coordinates>66.92749786,32.12889099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.65110779,33.18222046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.64777374,33.18777084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE CIV Other 1 CIV WIA</description>
+      <name>TF1-87</name>
+      <Point>
+        <coordinates>64.01112366,33.42625046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.45195007,33.50749969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.42054749,33.54804993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.39584351,33.56082916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-22</name>
+      <Point>
+        <coordinates>66.94389343,32.29611969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-22</name>
+      <Point>
+        <coordinates>66.91779327,32.14749908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF3-6</name>
+      <Point>
+        <coordinates>65.71665955,31.61667061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-22</name>
+      <Point>
+        <coordinates>65.52443695,33.01694107</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.17111206,33.40444183</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.37304688,33.36500168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-22</name>
+      <Point>
+        <coordinates>67.41777802,32.52027893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Other</description>
+      <name>TF1-87</name>
+      <Point>
+        <coordinates>69.19526672,32.53778076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.50470734,33.49554825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.26805878,33.56027985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.77805328,33.21250153</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE CF Other 1 CF WIA</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.86694336,33.10277176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.23695374,33.96472168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.43749237,33.56444168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.76526642,33.16387939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.82111359,33.22916031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-35</name>
+      <Point>
+        <coordinates>66.66665649,32.33889008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-5</name>
+      <Point>
+        <coordinates>68.48832703,33.53556061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.64665985,33.17721939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-5</name>
+      <Point>
+        <coordinates>68.50527954,33.49554825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-35</name>
+      <Point>
+        <coordinates>65.46193695,32.64332962</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.82111359,33.33805084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Other</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>69.27999115,32.56666946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF1-501</name>
+      <Point>
+        <coordinates>69.87805176,33.56499863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>111513Z Jun 04 IDF TF 2-27 Orgun-E</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>69.15527344,32.93415833</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Other</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>68.37165833,31.90416908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-35</name>
+      <Point>
+        <coordinates>67.34055328,32.42528152</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>68.80249786,33.14582825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-35</name>
+      <Point>
+        <coordinates>67.17194366,32.72777939</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-35</name>
+      <Point>
+        <coordinates>67.07666779,32.83721924</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>69.35500336,32.90914917</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-35</name>
+      <Point>
+        <coordinates>66.40442657,32.22193909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Other</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>68.37165833,31.90416908</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF2-35</name>
+      <Point>
+        <coordinates>67.12277985,32.64054108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>150930Z Aug 04 DIRECT FIRE TF Bronco Deh Rawod</description>
+      <name>TF2-5</name>
+      <Point>
+        <coordinates>65.53278351,33.05083084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Other</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>68.79416656,33.17139053</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-5</name>
+      <Point>
+        <coordinates>65.92582703,32.67026901</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-27</name>
+      <Point>
+        <coordinates>69.27139282,33.18555069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-5</name>
+      <Point>
+        <coordinates>65.87277222,32.63193893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-5</name>
+      <Point>
+        <coordinates>65.56305695,32.94083023</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Other</description>
+      <name>TF2-5</name>
+      <Point>
+        <coordinates>66.02055359,32.23777008</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Other</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>65.45861053,32.68611145</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>64.01112366,33.42625046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>64.01112366,33.42625046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO  Bagram</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>69.26447296,34.94670105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO  Bagram</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>69.26447296,34.94670105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO  Bagram</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>69.26447296,34.94670105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO  Bagram</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>69.26447296,34.94670105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO  Bagram</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>69.26447296,34.94670105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO  Bagram</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>69.26447296,34.94670105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRAGO  Bagram</description>
+      <name>TF165</name>
+      <Point>
+        <coordinates>69.26447296,34.94670105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT(AV)  Jalalabad Airfield</description>
+      <name>TF141</name>
+      <Point>
+        <coordinates>70.63173676,34.07278061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF TF Aegis reported indirect fire received at KAF</description>
+      <name>TF73</name>
+      <Point>
+        <coordinates>64.01112366,33.42625046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CIV  1 CIV WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.99674988,34.91187668</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.15286255,32.88554001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  FOB Tarin Kowt</description>
+      <name>TF637</name>
+      <Point>
+        <coordinates>65.87554932,32.73492813</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CIV Jalalabad Airfield 1 CIV WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.49703217,34.40158081</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>OTHER</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.85933685,33.26794052</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Jalalabad Airfield</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.19615173,34.26575089</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CIV Camp Blessing 1 CIV WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.90361786,34.98548889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>SAFIRE  FOB Bari Kowt</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.45596313,35.41376114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE ANA  1 ANA WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91831207,34.81224823</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC ANA Asadabad 2 ANA WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.13514709,34.85280991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED</description>
+      <name>TF37</name>
+      <Point>
+        <coordinates>68.82224274,33.20399094</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.42479706,33.54539108</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ATTK  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.60562897,33.33774948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FOB Shkin</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.26777649,32.63928986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Kabul</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>71.79269409,37.64068985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.93286133,33.35020065</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>UXO FOUND/CLEARED  FOB Orgun-E</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.18528748,32.95399857</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>PATROL CF Jalalabad Airfield 1 CF WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>73.66163635,38.46714401</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.44220734,33.34975052</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>FRIENDLY FIRE  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>70.02304077,33.52536011</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Shkin</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.26835632,32.63909912</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.93374634,34.89225006</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.38210297,33.46361923</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT CIV Khowst City 4 CIV KIA</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.68193817,33.31061172</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.96372986,34.94343948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MINE STRIKE CF Bagram 1 CF WIA</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.27877808,34.96366882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Jalalabad Airfield</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.47345734,34.35948944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Gayan</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.48652649,32.99676132</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FOB Orgun-E</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.15585327,32.93416977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Gayan</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.48597717,32.99645996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Asadabad</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.22958374,34.94757843</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.42565155,34.98799896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC ANP Kamdesh 1ANP WIA</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.32959747,35.42258072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>KIDNAPPING  Other</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.11521912,32.69968033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.88693237,33.37759018</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.36126709,32.59907913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED CIV Larumi Ghar 1 CIV WIA</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.91895294,33.35480881</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.90595245,35.08147049</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CF Asadabad 1 CF WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.09215546,34.96220779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CF FB Naray 1 CF WIA</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.09215546,34.96220779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC  FB Naray</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.51776886,35.15874481</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.05641937,34.95875168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.05696106,34.97119904</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.93528748,33.35541916</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91301727,34.89527893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) TF 2-87 : 1 ANSF KIA 15 UE KIA </description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.33483887,32.04333115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF306</name>
+      <Point>
+        <coordinates>65.47033691,31.59143066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Kamdesh</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.33410645,35.42644882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED ANP FOB Ghazni 1 ANP KIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.42121887,33.54438019</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Naray</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.33513641,35.42647171</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Kamdesh</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.32797241,35.42341995</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.52680969,33.40602112</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CF FB Naray 1 CF WIA</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.52274323,35.20650101</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.99281311,34.93637085</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.95355225,34.94332123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Orgun-E</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>72.23596954,37.09548187</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ATTK CIV Camp Blessing 1 CIV WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.93769836,34.92103958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.05440521,34.96311188</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Sharona</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.03214264,33.06055069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.92034149,34.88074112</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.74256134,33.37231827</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.36335754,32.58914948</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) MINE FOUND/CLEARED RPT  (VOIED) TF 1-102 : 0 INJ/DAM</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.37666321,33.49916077</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.41304779,33.53091049</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>UXO FOUND/CLEARED  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.94374847,33.34289932</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ATTK CIV FB Naray 3 CIV KIA 1 CIV WIA</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.57919312,35.23830032</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.04429626,34.93822098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.34745026,32.60993958</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Khost PRT</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.87905884,33.53540039</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC ANP Sharona 1ANP WIA</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.79557037,33.17142105</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.36167145,32.67098999</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.37827301,33.50006866</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.32108307,32.86394882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.45703125,33.40393066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CF Ghazni 1 CF WIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.41000366,33.50382996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED CF  4 CF WIA</description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>62.60266113,32.66223907</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.93538666,34.91566086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.23458862,32.65439987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>OTHER CIV Khowst City 1 CIV KIA</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.90812683,33.34947968</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED ANP CIV Khost PRT 1 CIV KIA 1 CIV WIA 1 ANP KIA</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.99320984,33.45886993</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ENG - OTHER CIV Ghazni 1 CIV KIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.37856293,33.45858002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.99758148,34.91204071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT CF Khowst City 2 CF WIA</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.69199371,33.31225967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.36486816,33.49187851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91162109,34.97644043</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>70.05758667,33.44390106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT ANP Ghazni 3 ANP KIA 2ANP WIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.45570374,33.37524033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.45926666,33.37237167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE CF  1 CF WIA</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.50627136,33.04333878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) MINE STRIKE RPT  (VOIED) TF 1-32 : 0 INJ/DAM</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.93039703,34.90581131</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.54654694,33.33213043</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  FOB Orgun-E</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.47724915,32.96583176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Sharona</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.53225708,33.12388992</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  FOB Wazi Khwa</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.35012054,32.42472076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>VANDALISM  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.23831177,32.64808655</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.87123108,34.87654114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Ghazni</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.41623688,33.55979919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  FB Anaconda</description>
+      <name>TF601</name>
+      <Point>
+        <coordinates>66.72160339,33.04225922</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT CIV  1 CIV WIA</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.71720886,31.62060928</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED CF CIV Jalalabad PRT 3 CF WIA 1 CIV KIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.59667969,34.32096863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Torkham</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.94922638,34.23590088</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE ANA Camp Blessing 2 ANA WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.90921021,34.88172913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Kamdesh</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.54843903,35.34880066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.74495697,33.37041092</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>70.00659943,33.50024033</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (UNK) TF 4-25 : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.83158875,33.32386017</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MINE STRIKE CIV Ghazni 1 CIV KIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.43000031,33.40922165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.28817749,32.73548126</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.26760864,32.63901138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED CF Ghazni 2 CF WIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.47622681,33.32310867</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.94000244,33.31407166</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.27831268,32.65071106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.99252319,34.93809128</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED CIV FB Bermel 2 CIV KIA 1 CIV WIA</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.11421204,32.74116898</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91301727,34.89527893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE CF Camp Blessing 3 CF WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.89161682,34.86856842</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DET OPNS</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.43570709,31.51544952</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  FOB Wazi Khwa</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.34107971,32.05751038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  FB Tillman (Lwara)</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.50982666,33.04867935</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Tillman (Lwara)</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.48594666,32.99195099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.00710297,34.93883896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - SECURITY</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.41000366,33.50473022</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.00710297,34.93883896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.36261749,32.66944122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.00710297,34.93883896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.34980011,32.61074829</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.27935791,32.64709854</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.26014709,32.64081955</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED CIV FOB Gardez 1 CIV KIA 1 CIV WIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>69.03173828,33.43622971</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.00739288,34.93748093</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.00710297,34.93883896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED ANP Ghazni 2ANP WIA</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.36435699,33.56132889</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) 27 EN : 0 INJ/DAM</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>70.17701721,33.44462967</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Kamdesh</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.33181763,35.42343903</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ENG - OTHER</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.49079132,32.97623825</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT CIV  2 CIV WIA</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>71.69556427,37.46002579</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>68.39359283,33.38740158</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  Camp Blessing</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.29871368,35.42082977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.79740143,32.02217102</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF2-4</name>
+      <Point>
+        <coordinates>68.08454132,33.13822174</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   TF 3-71 : 0 INJ/DAM</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.55452728,35.32698822</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Tillman (Lwara)</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.45459747,32.93164063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF PALADIN : 0 INJ/DAM</description>
+      <name>TF36</name>
+      <Point>
+        <coordinates>65.07920837,31.65677071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(OTHER) OTHER RPT  (UNK) 205TH RCAG : 0 INJ/DAM</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.41248322,31.51227951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.94146729,34.95127106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF  FB Tillman (Lwara)</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.45459747,32.93164063</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.89482117,33.30809021</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>70.13474274,33.41976929</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IDF</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.26777649,32.63928986</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE CF ANA FB Bermel 3 CF WIA 4 ANA WIA</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.36260223,32.66672897</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.28923798,32.73458099</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91301727,34.89527893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.00710297,34.93883896</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.25669861,32.92498016</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Kandahar</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.41208649,31.49695969</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MINE FOUND/CLEARED</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.05474091,33.05662155</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.24594116,33.09693146</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED ANA FB Sweeney (Shinkay) 6 ANA WIA</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>67.36160278,31.97917938</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Patrol Base Wilson</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.40724182,31.45195007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.40364838,32.78207016</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.38192749,33.38505936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>PROJECT START</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.30960083,32.75978851</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - SECURITY</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Surobi</description>
+      <name>TF33</name>
+      <Point>
+        <coordinates>69.66177368,34.84722137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Shindad Airfield</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>62.30641937,33.39686966</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (PBIED) TF 2-87 : 11 CIV KIA 25 CIV WIA 1 UE KIA </description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.18000031,32.94083023</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  FB Naray</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.52337646,35.20956039</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91197968,34.89728165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  FOB Wazi Khwa</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.34774017,32.02819824</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.41797638,31.48060989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ENG - OTHER  FB Bermel</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.44152069,32.66558075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>SAFIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.93465424,34.87988281</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG</description>
+      <name>TF425</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDCAP</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>71.09215546,34.96220779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.29798126,32.79679871</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91517639,34.89389038</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ATTK  BSP 5</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.66912842,33.15256882</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ACCIDENT  FB Naray</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.50842285,35.40095901</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - SECURITY</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - SECURITY</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.86387634,33.32995987</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.43065643,31.52366066</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.27059174,34.96575165</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.19096375,32.69237137</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED  Khowst City</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.89914703,33.31166077</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED  Camp Blessing</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.95974731,34.94221115</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.73422241,33.37137985</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - DEVELOPMENT</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - SECURITY</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) MINE FOUND/CLEARED RPT  (VOIED) TF 2-87 : 0 INJ/DAM</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.42888641,32.92361069</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.88358307,33.56602859</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED FOUND/CLEARED  FOB Methar Lam</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>70.17304993,34.68852997</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CIV  3 CIV WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.91898346,35.11804962</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>IED</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.91355896,33.51828003</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TF 1-32 : 0 INJ/DAM</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.46806335,34.42447662</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - SECURITY  Bagram</description>
+      <name>TF33</name>
+      <Point>
+        <coordinates>69.33101654,35.01538849</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.52223206,35.20777893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>OTHER  FOB Salerno</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.96354675,33.40407944</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.37130737,32.96529007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.53988647,32.34777832</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.81356812,32.96582031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.29232025,32.73059845</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>QA/QC PROJECT</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF 4-25 : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.87895966,33.33345795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE  FOB Cobra</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.66982269,32.97877884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - DEVELOPMENT</description>
+      <name>TF33</name>
+      <Point>
+        <coordinates>69.61868286,34.95934296</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DET OPNS  FB Tillman (Lwara)</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.49533081,32.94681931</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (SVBIED) TF 2-87 : 4 CF WIA 1 UE KIA </description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.32778931,32.76966476</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) TF 4-25 : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>70.04490662,33.55224228</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) TF 1-102 : 0 INJ/DAM</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>70.21044922,34.66986847</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDEVAC CF Mangretay</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.32810974,32.77101898</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.32959747,35.42258072</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TF 1-32 : 0 INJ/DAM</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.17420959,34.21036911</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TF 1-32 : 0 INJ/DAM</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.89647675,34.64788055</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.37716675,32.93270111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (TIMER) TF 1-32 : 0 INJ/DAM</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.50307465,34.43487167</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   TF 4-25 : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>70.17716217,33.44543457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) TF 4-25 : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.92521667,33.33853531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.55010223,32.37778091</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.10310364,32.43466949</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED AMBUSH RPT  (UNK) TF 1-32 : 2 ANSF WIA </description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.60758972,34.43714905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>SURV</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.33630371,34.97409058</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.15574646,32.93867874</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Improvised Rocket Launcher (IRL)) ANP / TF 4-25 : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.74068451,33.37314606</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components)  : 0 INJ/DAM</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>66.34754944,30.98537064</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) PREMATURE DETONATION RPT  (VOIED) CJSOTF-A : 1 UE WIA 3 UE DET </description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.38378906,31.50200081</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MTG - SECURITY</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>69.84312439,33.36402893</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DIRECT FIRE</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.32565308,31.49224091</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF 4-25 : 0 INJ/DAM</description>
+      <name>TF4-25</name>
+      <Point>
+        <coordinates>70.17207336,33.44384003</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) TF 1-102 : 0 INJ/DAM</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>70.18982697,34.67818451</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) PREMATURE DETONATION RPT  (RCIED) TF 1-32 IVO  (ROUTE KONAR ROAD): 1 UE KIA </description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.95584106,34.71608353</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>DEMONSTRATION CIV  6 CIV KIA 8 CIV WIA</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.21764374,34.26401138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TF 1-32 : 0 INJ/DAM</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.73353577,34.26410675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.52442932,35.20772934</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) TF 1-102 : 0 INJ/DAM</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>70.18341064,34.68145752</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.28527069,32.69580078</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.20890045,33.04838181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>CACHE FOUND/CLEARED</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.90350342,34.89020157</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>OTHER  FOB Salerno</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.38596344,33.37926102</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.33931732,32.71559906</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.37651825,32.93190002</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.09215546,34.96220779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>OTHER  FOB Orgun-E (MOD)</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.15509796,32.93416977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST  Mangretay</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.33956909,32.66788101</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>MEDCAP</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>70.20601654,34.66540146</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TF 1-32 ANA/US PATROL : 3 UE DET </description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.97054291,34.93944168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TF 1-102 : 0 INJ/DAM</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>70.37493134,34.91427994</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF3-71</name>
+      <Point>
+        <coordinates>71.31717682,35.45075989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>68.97631073,33.10646057</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF1-102</name>
+      <Point>
+        <coordinates>70.37384033,34.91429138</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>HUM ASSIST</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.35289001,32.79935837</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>OTHER</description>
+      <name>TF1-32</name>
+      <Point>
+        <coordinates>70.90273285,34.89030075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>VETCAP</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>67.14367676,32.20680618</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF4 251016Z PRT Farah IED Det in Farah with 1 ISAF minor casualty  (mod)</description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>63.55963135,32.45040894</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>220645z MAR 07 2/B/4-73 PATROL TO SAROBI</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.09108734,32.79251862</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>250115Z TF BUSHMASTER RCIED IVO DC SANGAW(mod)</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>64.84105682,32.05397034</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>D0 080856Z TF 1 Fury Receives IDF vic FOB Rob (MOD)</description>
+      <name>TF42</name>
+      <Point>
+        <coordinates>64.82952881,32.01477051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) CEXC : 0 INJ/DAM</description>
+      <name>TF8700</name>
+      <Point>
+        <coordinates>66.60929108,36.73947144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>161200Z TF Paladin MOD 5 RCIED Turn-In IVO Shinkay District</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>67.37722015,31.97027016</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) CEXC IVO  (ROUTE 5): 0 INJ/DAM</description>
+      <name>TF7940</name>
+      <Point>
+        <coordinates>66.52803802,36.77893829</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>170330Z  TF Catamount Conducts Patrol IVO Pir Kowti Valley</description>
+      <name>TF2-87</name>
+      <Point>
+        <coordinates>69.16127014,32.91440964</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>170330Z  TF Catamount Conducts Patrol IVO Pir Kowti Valley</description>
+      <name>TF27</name>
+      <Point>
+        <coordinates>69.16127014,32.91440964</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>270400z TF 3 Fury VETCAP in Malana, Andar</description>
+      <name>TF4-73</name>
+      <Point>
+        <coordinates>68.52243805,33.22200012</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>111915Z TF 373 OBJ Carbon 7x ANP KIA, 4xANP WIA 4xEKIA</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>70.06186676,34.27045822</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF15 212206Z TF 66 DF TIC IVO TARIN KOT DC</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.00021362,32.65658951</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF10 071900Z TF KANDAHAR, AMBUSHED IVO PANJWAYI DC</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>65.48921204,31.50810051</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>061935z OEF CARDINAL 61 AMBUSH IVO MHC</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>65.68360138,31.63750076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>N6 151930Z TF 2FURY RECIEVES REPORT OF ZANA KHAN DC ATTACK</description>
+      <name>TF04</name>
+      <Point>
+        <coordinates>68.61766815,33.66563034</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF5 031450z TF66 DF TIC IVO FOB Ripley</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.06981659,32.57849884</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) TF EAGLE 1-503 IN IVO  (ROUTE PINTO ): 3 UE DET </description>
+      <name>TF70</name>
+      <Point>
+        <coordinates>69.24137115,32.64104462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF7 041420Z TF66 OFF ENG IVO TARIN KOT</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.07063293,32.56967926</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>280747z TF 3 FURY CONOP 07-27 (Gelan Operations) ROLL-UP</description>
+      <name>TF4-73</name>
+      <Point>
+        <coordinates>67.62960815,32.73715973</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>281857Z TF GUARDIAN DETAINEE TRANSFER TO BTIF</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94614029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>122033Z TF 373 Detainee transfer to Bagram Theater Internment Facility</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94614029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>090230Z TF Helmand PPIED Discovery IVO Sangin</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>64.83486176,32.07209015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF9 301348Z TF HELMAND IED STRIKE IVO PB INKERMAN</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.87386322,32.16082001</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>031900Z TF GUARDIAN DETAINEE OPS</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94614029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>191200Z  TF DIAMONDBACK PALEHORSE PATROL TIC</description>
+      <name>TF13</name>
+      <Point>
+        <coordinates>70.10295868,34.84402084</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>091200z, TF Rock OPSUM CONOP SARKANI</description>
+      <name>TF2-1</name>
+      <Point>
+        <coordinates>71.11138916,34.73601913</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>041300Z TF Corsair Reports 2x Major (A/C Hit) SAFIREs (SAF) IVO FOB Martello</description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>66.09378052,32.12057114</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) PRT FARAH IVO  (ROUTE HWY 517): 4 CF WIA </description>
+      <name>TF45</name>
+      <Point>
+        <coordinates>62.60417175,32.65700912</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>151940Z, TASK FORCE GUARDIAN, 2 DETAINEES TRANSFERRED</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26509094,34.98220062</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>272014Z TF Guardian, Detainee transfer to the Bagram Theater Internment Facility</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.26496887,34.94614029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>110800Z TF PALADIN 107MM ROCKETS WITH MOD 5 RECOVERED KHAS URUZGAN DISTIRICT URUZGAN PROVINCE</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.66326141,32.92899323</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>181430Z TF Gladius Insurgent captured determined NOT to be Qari Nejat</description>
+      <name>TF51</name>
+      <Point>
+        <coordinates>69.35102081,35.08026123</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>031550Z PRT SHARANA DAILY REPORT</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>68.83656311,33.13362122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>181558Z TF BAYONET ASADABADPRT Kunar Daily Summaries</description>
+      <name>TF82</name>
+      <Point>
+        <coordinates>71.13514709,34.85279083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF13 311102Z TF 66 IDF TIC FOB POENTJAK</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.08851624,32.97608185</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>150500Z, NANGARHAR PRT, PRT CDR, PRT S2, &amp;amp;amp; STB XO ATTENDED GOV SHERZAI&amp;amp;apos;&amp;amp;apos;S COUNTER NARCOTICS PLANNING MEETING AT GOVERNOR&amp;amp;apos;&amp;amp;apos;S PALACE</description>
+      <name>TF03</name>
+      <Point>
+        <coordinates>70.08714294,34.33647919</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>061500ZOCT 07 PRT SHARANA DAILY REPORT</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>68.83656311,33.13362122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>071530ZOCT07 PRT SHARANA DAILY REPORT</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>68.83653259,33.13364029</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>051700Z PRT SHARANA DAILY REPORT</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>68.83656311,33.13362122</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF14 300437Z TF 66 OFF ENG FOB POENTJAK</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.08798218,32.99227905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>091550Z Konar PRT Daily Summary Reports from 5 OCT through 9 OCT</description>
+      <name>TF59</name>
+      <Point>
+        <coordinates>71.13514709,34.85279083</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>D8 101057z TF Eagle reports IDF at FOB OE</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.15509796,32.93416977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF3 020535Z TF 77 DF TIC CAMP FOXTROT</description>
+      <name>TF77</name>
+      <Point>
+        <coordinates>66.71772766,31.87931061</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>240800LNOV07 RC-N Threatening Letter</description>
+      <name>TF95409</name>
+      <Point>
+        <coordinates>66.70574188,36.83452988</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) TF PALADIN : 3 CF WIA </description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.98335266,32.67263031</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ANP Station Attack</description>
+      <name>TF40963</name>
+      <Point>
+        <coordinates>66.08895874,37.00196075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>182330Z CAOC Reports Minor SAFIRE (RPG) IVO FOB Airborne</description>
+      <name>TF714</name>
+      <Point>
+        <coordinates>68.71868896,34.35863113</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF4 020620Z TF 66 OFF ENG FOB ANACONDA</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.16960907,33.08253098</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>070858Z TF 66 DF TIC IVO PB POENTJAK</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.18583679,32.90888977</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF17 082324Z RC NORTH ANP ATK IVO AQCHEH</description>
+      <name>TF40963</name>
+      <Point>
+        <coordinates>66.08895874,37.00196075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF17 082324Z RC NORTH ANP ATK IVO AQCHEH</description>
+      <name>TF47173</name>
+      <Point>
+        <coordinates>66.08895874,37.00196075</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>100530Z TF Cincinnatus Kapisa Security Shura</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>69.57893372,34.96622086</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>211600Z TF Bushmaster and ANP OP JACKAL SNARE (CONOP) IVO Bermel, Paktika</description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>69.28604126,32.74000168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>070001Z TF 1Fury OPERATION Mar Karardad CONOP Level 2</description>
+      <name>TF32</name>
+      <Point>
+        <coordinates>64.73409271,32.39957809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>142000L ARSIC-N ANA Attcked IVO Char Bulak, Balkh</description>
+      <name>TF95000</name>
+      <Point>
+        <coordinates>66.70358276,36.75362015</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) TF PALADIN : 0 INJ/DAM</description>
+      <name>TF32</name>
+      <Point>
+        <coordinates>64.81821442,32.00746918</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>AT 031332Z RC SOUTH REPORTS UXO FOUND IVO KANDAHAR AIRFIELD, KANDAHAR PROVINCE</description>
+      <name>TF49</name>
+      <Point>
+        <coordinates>66.55045319,31.57978058</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>01-05Jan08 TF 10-1 OP Bic Pen Level 1 CONOP IVO Chakh, Wardak</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>68.65258026,34.13510895</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) TF GLADIUS : 2 ANSF KIA 3 ANSF WIA </description>
+      <name>TF33</name>
+      <Point>
+        <coordinates>69.57617188,34.96397018</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) MINE FOUND/CLEARED RPT  (Victim Operated IED (VOIED)) 209TH ARSIC : 0 INJ/DAM</description>
+      <name>TF95200</name>
+      <Point>
+        <coordinates>66.70626831,36.73834991</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (PBIED) TF GLADIUS : 0 INJ/DAM</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>69.16504669,34.90003586</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>300453Z CJTF82 OP MAXWELL Level 1 CONOP IVO</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.32377625,33.27949905</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>082100Z 209h ARSIC RPG ATTACK KOKAL DASH, Jawzjan Province</description>
+      <name>TF613</name>
+      <Point>
+        <coordinates>66.32401276,36.81507111</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>170320Z 209th ARSIC DIRECT FIRE IVO BALKH CITY</description>
+      <name>TF980</name>
+      <Point>
+        <coordinates>66.73755646,36.74074936</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>031930Z 209th ARSIC ATTACK IVO GUR TEPA VILLAGE, Balkh</description>
+      <name>TF8733</name>
+      <Point>
+        <coordinates>66.61741638,36.76156998</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>270139ZMAR08 TF DESTINY Reports Minor SAFIRE (RPG) TF 714 RW (UNK) IVO Baghran</description>
+      <name>TF714</name>
+      <Point>
+        <coordinates>64.77628326,32.94329071</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>270037ZMAR08 TF DESTINY Reports Minor SAFIRE (SAF) TF 714 RW (UNK) IVO Kajaki DC</description>
+      <name>TF714</name>
+      <Point>
+        <coordinates>64.96328735,32.34249878</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>291136Z CJTF-82 OP MOUNTAIN HIGHWAY PHASE 2 Level 2 CONOP</description>
+      <name>TF1-91</name>
+      <Point>
+        <coordinates>71.42694855,35.40441895</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>ISAF4. 311047Z TF DAY KUNDI DF TIC IVO FOB ANACONDA</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.24729156,33.27000046</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>D9. 141212Z  MAR TF 2Fury Requests Priority MEDEVAC for NBI</description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>68.87978363,34.39616013</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED AMBUSH RPT  (VOIED) 2-508TH / WARRIOR IVO  (ROUTE HWY 1): 2 HNSF KIA 2 HNSF WIA </description>
+      <name>TF06</name>
+      <Point>
+        <coordinates>68.66483307,33.90058899</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) TF PALADIN : 1 HNSF KIA </description>
+      <name>TF32</name>
+      <Point>
+        <coordinates>65.48310852,31.59570694</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>120610Z TF DESTINY Minor SAFIRE (SAF) IVO FOB Robinson</description>
+      <name>TF32</name>
+      <Point>
+        <coordinates>64.77983093,31.94335938</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TF 444  : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.15396118,31.05888557</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,RPG) TF 444 : 11 CIV WIA 4 UE KIA </description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.30265045,31.73499107</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms)  TF444 PMT : 1 ANSF KIA </description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.32532501,31.39799118</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF HELMAND (TF 444) : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.32532501,31.39799118</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(CRIMINAL EVENT) MURDER RPT   TF HELMAND (OCCP LKG ) : 4 ANSF KIA 1 ANSF WIA </description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>64.68885803,31.69392586</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT   TF 42  : 4 UE KIA </description>
+      <name>TF42</name>
+      <Point>
+        <coordinates>64.09963989,31.40930176</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   TF 36, TF 52 AND THE CRU : 9 UE DET </description>
+      <name>TF52</name>
+      <Point>
+        <coordinates>69.22777557,34.52324295</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) COMPASS  : 1 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.85211182,31.70203972</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   B COY TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.06079865,31.70419502</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(CRIMINAL EVENT) OTHER RPT   C COY 2-2 INF : 1 CIV KIA 1 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05375671,31.62137413</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   TF 52 : 1 CIV KIA 3 CIV WIA </description>
+      <name>TF52</name>
+      <Point>
+        <coordinates>69.29534149,34.54205322</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT   TF 42 : 3 UE KIA </description>
+      <name>TF42</name>
+      <Point>
+        <coordinates>64.27300262,31.71808815</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT   TFK-DO  : 1 CIV WIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.89889526,31.67789078</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Rocket) TFK  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.82363892,31.61584854</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   TF 2-2  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.95080566,31.63832283</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF444 : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.05020142,31.53252983</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) SURVEILLANCE RPT   TF66 FCE : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>66.06412506,32.67798996</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF 444  : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.27937317,31.73071671</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   TF 373 : 1 CIV WIA </description>
+      <name>TF373</name>
+      <Point>
+        <coordinates>65.01229858,31.55618858</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   ANP WITH US PMT  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.01580048,31.64045143</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED AMBUSH RPT  (UNK)  : 2 CF KIA </description>
+      <name>TF71</name>
+      <Point>
+        <coordinates>64.47483063,31.78031158</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ATTACK RPT   TF66  : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.95089722,32.81016922</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   DEU MIXED RECCE COY  : 0 INJ/DAM</description>
+      <name>TF954</name>
+      <Point>
+        <coordinates>66.70856476,36.73659134</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   DEU MIXED RECCE COY  : 0 INJ/DAM</description>
+      <name>TF898</name>
+      <Point>
+        <coordinates>66.70856476,36.73659134</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF66 : 0 INJ/DAM</description>
+      <name>TF66</name>
+      <Point>
+        <coordinates>65.90182495,32.85080719</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ESCALATION OF FORCE RPT   RCC/G3 OPS : 0 INJ/DAM</description>
+      <name>TF36</name>
+      <Point>
+        <coordinates>69.15040588,34.54592514</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(Enemy Action) Indirect Fire rpt RC (S)</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.18249512,31.53716087</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(Enemy Action) Direct Fire rpt RC (S)</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.07037354,30.66739082</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) A COY TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.23360443,31.51643562</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) D COY TF2-2  : 1 UE KIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.38859558,31.49225807</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) A COY TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.37386322,31.49235344</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(NON-COMBAT EVENT) ACCIDENT RPT   C COY TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.09395599,31.60430527</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   B COY TF 2-2 : 1 UE DET </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.48828125,31.51263428</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY FIRE) GREEN-WHITE RPT   TF 444 : 1 CIV WIA </description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.13728333,30.80099106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) D CO TF 2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.48210144,31.59008026</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Rocket) TF PHOENIX : 0 INJ/DAM</description>
+      <name>TF51</name>
+      <Point>
+        <coordinates>69.37162018,34.56348801</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) USPI CONVOY : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.83592987,31.69414711</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) USPI : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.02040863,31.63904381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ATTACK RPT  (Small Arms) B COY TF 1-12  : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.16927338,31.51185989</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) ANA 1-1-205 W CAN OMLT : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>64.83312988,31.70805168</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   A CO 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.85558319,31.70107841</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,HMG) C COY 11 BG : 0 INJ/DAM</description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.47974396,32.79965591</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY FIRE) GREEN-BLUE RPT   A COY TF 1-12  : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.27249146,31.56760979</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) C CO TF 2-2  : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.01106262,31.65055466</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FALSE RPT   : HQ BG TF 1-12  : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.86625671,31.69750404</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) IDF INTERDICTION RPT  (Mortar) C COY TF 2-2 : 2 UE KIA </description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.05383301,31.62497902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Mortar) A COY TF2-2 : 0 INJ/DAM</description>
+      <name>TF2-2</name>
+      <Point>
+        <coordinates>65.18269348,31.53937531</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) CJSOTF-A  : 26 UE KIA 6 UE DET </description>
+      <name>TF31</name>
+      <Point>
+        <coordinates>65.87509918,32.17538452</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   B COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.21425629,31.51570702</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) COMPASS CONVOY # 7 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.34932709,31.56551743</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(CRIMINAL EVENT) KIDNAPPING RPT   EOD TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.00362396,31.64291573</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) ATTACK RPT  (Small Arms,Mortar) SOF UNIT  : 0 INJ/DAM</description>
+      <name>TF55</name>
+      <Point>
+        <coordinates>65.15164948,32.43056488</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   TF1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.95474243,31.64484596</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   B COY TF1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.18249512,31.53716087</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT   TF 10 WITH ANA (2/3/201) : 1 CF KIA </description>
+      <name>TF10</name>
+      <Point>
+        <coordinates>69.89164734,34.78262711</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   A COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.02262115,31.63891792</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,RPG) C COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>64.85227203,31.56833076</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   D COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.54892731,31.51315308</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   PRT KDZ : 0 INJ/DAM</description>
+      <name>TF47</name>
+      <Point>
+        <coordinates>68.90487671,36.67207718</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) ATTACK RPT  (Mortar,Small Arms) B COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.23462677,31.50631523</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(Non-Combat Event) Accident rpt RC (S)</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.03089905,31.63677406</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) A COY TF 1-12 INF : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.27940369,31.55567169</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) D COY TF 1-12 : 1 CIV WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.54965973,31.53063393</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) C COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.23334503,31.47556305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) D COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.07974243,31.63809013</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ESCALATION OF FORCE RPT  (Small Arms)  : 1 UE KIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.23284149,31.46657181</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   E COY TF1-12  : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.28729248,31.45559883</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   TF 1-12 : 1 UE DET </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.49282074,31.60020638</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT  (CWIED) ANP : 2 UE KIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43432617,31.57139397</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) C COY 1-17 INF : 0 INJ/DAM</description>
+      <name>TF1-17</name>
+      <Point>
+        <coordinates>65.10848236,31.61777496</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DELIBERATE ATTACK RPT  (HMG) JHFA : 1 UE KIA </description>
+      <name>TF196</name>
+      <Point>
+        <coordinates>64.54127502,31.70752144</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF 2FURY : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.39059448,31.56247902</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) C COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.41485596,31.55967712</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ATTACK RPT   TF 1-12  : 1 HNSF WIA 10 UE DET </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43456268,31.57238007</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ATTACK RPT  (Mortar) TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.41319275,31.57165909</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT   TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.25994873,31.56999779</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DELIBERATE ATTACK RPT   TF 1-12 IN : 1 CIV WIA 1 UE KIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.41429138,31.57069206</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.37815857,31.57064819</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   D COY TF1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.52544403,30.72536469</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (RPG) D COY TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.47412109,31.58722305</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) 2 FURY/USPMT : 1 UE KIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.34790802,31.55722809</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ESCALATION OF FORCE RPT  (Small Arms) TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.32984161,31.55927277</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (RPG)  : 2 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.40978241,31.57131767</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF 1-12 IVO  (ROUTE HWY 1): 1 CIV WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.46870422,31.59264946</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (RPG,Small Arms) TF THOR : 2 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43421173,31.55088615</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Mortar) TF 1-12 : 1 CF KIA 6 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43372345,31.58397675</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.41876984,31.56041527</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (RPG,Small Arms) ANP : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43503571,31.57426643</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) C CO 1-12 IN (US PMT) : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43174744,31.56490326</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) 1 COLDM GDS 3 COY W TF444 : 3 CF WIA </description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.41735077,31.79483795</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) TF 1-12 : 1 CF WIA </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.55984497,31.62764931</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (RPG,Small Arms) TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.41488647,31.55688095</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   C COY TF1-12  : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43441772,31.57085037</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) DETAIN RPT   TF 1-12 CS 16  IVO  (ROUTE HWY 1): 2 UE DET </description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43241882,31.55068588</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.48841095,31.59488106</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   TFK TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.43229675,31.55420685</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED HOAX RPT    : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.48313904,31.59687805</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TN ADT IVO  (ROUTE KEYSTONE): 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>69.34317017,33.70589828</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT  (Mortar) TF 1-121 : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>68.93837738,33.43333435</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,HMG) C CO TF 1-12 : 0 INJ/DAM</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.42514801,31.55037308</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(FRIENDLY ACTION) ESCALATION OF FORCE RPT  (Small Arms) A COY 4 RIFLES / TF444 : 0 INJ/DAM</description>
+      <name>TF444</name>
+      <Point>
+        <coordinates>64.83849335,32.08918381</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(ENEMY ACTION) INDIRECT FIRE RPT   A 1-121  : 0 INJ/DAM</description>
+      <name>TF1-121</name>
+      <Point>
+        <coordinates>68.91374969,33.46015549</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(Friendly Action) Escalation of Force rpt TFK SHAMUS 70</description>
+      <name>TF1-12</name>
+      <Point>
+        <coordinates>65.42453003,31.57951546</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) INTERDICTION RPT  (UNK) TFK-BTL-CPT : 3 UE KIA </description>
+      <name>TF3-09</name>
+      <Point>
+        <coordinates>65.65026855,31.54545212</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) TF 55 : 0 INJ/DAM</description>
+      <name>TF55</name>
+      <Point>
+        <coordinates>65.97134399,32.22022247</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
