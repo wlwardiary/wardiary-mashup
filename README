@@ -1,0 +1,11 @@
+mashup's with data from WikiLeaks
+
+project "task force"
+
+csv >> python >> regex match TF* >> rdfa
+
+$ rdfproc store parse *rdfa
+
+$ rdfproc -r xml store query sparql - 'select ?title, ?description ?coordinates where { ?s <urn:us:mil:v1#taskforce> ?title . ?s <http://purl.org/dc/elements/1.1/subject> ?description . ?s <http://www.opengis.net/kml/2.2#coordinates> ?coordinates}' > tfsparql.xml
+
+$ xsltproc kml.xsl tfsparql.xml > TF_v0.1.kml
