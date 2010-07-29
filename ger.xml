@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#">
+  <head>
+    <variable name="title"/>
+    <variable name="description"/>
+    <variable name="coordinates"/>
+  </head>
+  <results>
+    <result>
+      <binding name="title"><literal xml:lang="en">DRUID Explosive Hazard Report Migrated</literal></binding>
+      <binding name="description"><literal xml:lang="en">(N/I C) - SAME DEVICE AS APRIL 18 ATTACK During a night patrol on LOC PLUTO an IED attack was committed against a DEU patrol consisting of 1 FENNEK and 1 DINGO. The IED, probably 2 artillery shells 100 and 122 mm , exploded at 2235 L at  the grid 42SVF892</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.87963104,36.67676926</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components)  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">On september 28th the EOD Team FEY was tasked to the NDS office FEY together with the DEU MP. After an arrestation NDS found in the truck of the suspect several items. A list of these items was made by DEU MP and BEL EOD. This list is in level 1 Reports.&#xD;</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.57249451,37.11962509</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) INDIRECT FIRE RPT   TF ANZIO (DUTCH COMPOUND) : 6 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">ISAF #09-1252
+
+At 2155z KAF 2 x IDF INITAL REPORT OF IMPACT AT DUTCH COMPOUND MTF 
+
+UPDATE: 2237D UPDATE ON CASUALTIES UPDATE: 
+
+0140D UPDATE ON CASUATIES UPDATE : 1x ROUND HIT IMP TENT WOUNDING 5 SOLDIERS, 3 x US AND 2 x BELGUIM. 1 x TF EASGLE ASSUALT SOILDIER WOUNDED WHILE WALKING IVO THE IMPACT AREA. 
+
+BDA: 4 x  (US) WIA, 2 x BELGUIM WIA PERSONNEL DETAILS: 2 x (US) CAT B 1 x (BEL) CAT B 2 x (US) CAT D (2 x TREAT AND RELEASE) 1 x (BEL) CAT D (2 x TREAT AND RELEASE) 
+
+UPDATE 0407D: TFA RECIEVED A TELEPHONE CALL FROM KAF R3 NEEDING REQUIREMENTS FOR 2X CAT-B US WIA: 
+
+2X US MIL FROM BCO AFT NORTH BN, HEIDELBURG, GER: 
+
+1X PT:  NEED DEPLOYMENT ORDERS, MILITARY ID OR PASSPORT, AND LOR 
+
+1X PT:  NEED DEPLOYMENT ORDERS, AND LOR A
+
+At 0400D, SOLDIER FROM IMP ALONG WITH NORWAY SOLDIER TO COLABORATE WITH US NCE (TFA).  IMP HAS COPY OF 1X PT DEPLOYMENT ORDERS.  KAF R3 HAS MIL ID CARD. FURTHER DISCUSSION WITH IMP SOLDIER (US) REVEALED THAT THE TENT THAT WAS STRUCK BY THE ROCKET THAT PRODUCED CASUALTIES WAS THE TENT THAT THE IMP SOLDIERS (US) LIVED IN.  1X US MIL DID NOT HAVE HIS MILITARY ID CARD ON HIS PERSON, AND BECAUSE THE TENT WAS DESTROYED BY THE ROCKET, ID CARD MAY NOT BE FOUND.  IMP SOLDIERS ARE ATTEMPTING TO FIND THE ID CARD ATT, HOWEVER BAGGAGE AND PERSONAL BELONGINGS ARE HAVING TO BE PEICED BACK TOGETHER.   BOTH US CAT-B SOLDIERS ARE INDIVIDUAL AUGMENTEES FROM GERMANY.
+
+BDA: 4x US MIL WIA, 2 X BELGIAN WIA
+
+Event closed at 0200Z.   </literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">65.84742737,31.50025368</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) TF 1 GERONIMO : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">Event Title:D2 IJC#10-2314
+Zone:Waza Khawa South District
+Placename:Paktika
+Outcome:Ineffective
+
+S: UNK 
+A:TAKING SAF
+L:VA 428 529
+T:260504ZOCT09
+U:APACHE 17 &amp; ANSF 
+R:REQUESTING ISR 
+
+TIMELINE: 0504Z APACHE TOC REPORTS THAT A COMBINED PATROL OF ANSF FORCES AND  APACHE 17 IS CURRENTLY TAKING SAF AT VA 428 529. CURRENTLY NO BDA ATT. 
+
+UPDATE: 0508Z APACHE TOC REPORTS THEY ARE GOING TO SHOT A FIRE MISSION IN THE VIC.  OF VA 4287 5215. GERONIMO 95 REQUEST CELARANCE OF FIRES ATT. 
+
+UPDATE: 0512Z GERONIMO 95 REPORTS THAT AIR IS CLEARED ATT. 
+
+UPDATE: 0513Z GER 95 REPORTS SHOT OUT ATT. THE APACHE ELEMENT IS SHOOTING 81MM AT THE AAF ATT. 
+
+UPDATE: 0514Z JTAC WORKING AIR ATT. TO SUPPORT THE COMBINED PATROL OF ANSF AND APACHE 17. 
+
+UPDATE: 0524Z THE JTACS REPORT THAT THE CAS IS ON STATION ATT. 
+
+UPDATE: 0525Z THE JTACS REPORT THAT THE CAS IS 4 MIKES OUT ATT. 
+
+UPDATE: 0534Z THE JTACS REPORT THAT THE CAS IS OVERHEAD ATT.
+
+UPDATE:0556z JTACS REPORT THAT CAS IS OFF STATION ATT
+
+UPDATE: 0608z APACHE TOC REPORTS THAT THE AAF THAT OPENED FIRE ON THE COMBINED PATROL WERE 1-2 PAX THAT FLEED SOUTH OVER THE MOUNTAIN RANGE.
+
+CLOSED: 1428Z</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.39369965,32.11100006</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) INDIRECT FIRE RPT   TF 1 GERONIMO IVO  (ROUTE IDAHO): 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">Event Title:D12 IJC#11-0580
+Zone:Mata Khan District
+Placename:Paktia
+Outcome:Ineffective
+
+S: UNK 
+A: 2XIDF 
+L:VB 957 888
+T:071212ZNOV2009
+U:BNTAC/ANSF
+R:REQUESTING ISR AND AIR 
+
+TIMELINE: 1214Z WHILE TRAVELING RTE IDAHO THEY RECIEVED 2XIDF APPROX 200M AWAY FROM THE TRAIL TRUCK. BOTH RDS FIRED WERE INEFFECTIVE. POO WAS APPROX 800M AWAY TO THE NORTH OF THE CONVOY. THEY THEN RETURNED FIRE WITH 50. CAL. ATT NO BDA, NO WIA OR KIA.
+
+UPDATE: 1217Z THE JTAC ARE WORKING AIR ATT. 
+
+UPDATE: 1220Z THE AAF PAX THAT FIRED ON THE BNTAC HAVE BROKE CONTACT. THEY ARE CM ATT. 
+
+UPDATE: 1225Z GER 95 REPORTS THAT THEY HAVE ZORMATS' 155M LAID ON IN SUPPORT. 
+
+UPDATE: 1228Z THE AAF PAX HAVE BROKE CONTACT. THE BN TAC IS CM ATT. 
+
+SUMMARY: 
+2XIDF INEFFECTIVE
+NO BDA
+
+EVENT CLOSED 071228zNOV09</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.95442963,33.33846283</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   PRT MEY PATROL : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF INCIDENT 04-0853.
+
+RC(N) / NOR/QRF REPORTS THAT A PRT MEY PATROL HAS ROLLED OVER 1 X DEU MB(WOLF). THEY HAVE REQUESTED RECOVERY VEHICLE FROM PRT MEY.  NO INJURIES.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">63.98326111,35.74940491</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) PRT PEK : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 280946D* PRT PEK reported a insurgent attack at Gr 42S VF 800 094, 31km NE of FOB POLE-E-KUMRI, in the BAGHLANI JADID District, BAGHLAN Province. Unit reported a suicide attack against a DEU convoy consisting of Electronic Warfare and Mixed RECCE COY. Convoy was driving on road PLUTO from PRT KDZ to PRT MES via PRT PEK. At 1000D*, ANSF informed PRT PEK, that the attack had been an unconfirmed IED attack. Primary check confirmed that it had been an IED attack. There was no evidence of suicide activity. EOD team discovered a second IED next to the first one. There were no casualties or BDA reported. (04 0772) 
+
+----------------------------------------------------------------------------------
+Summary from duplicate report
+
+31053 0772.02 280946D* APR2008 No PRT PEK RC (N) INSURGENT ATTACK (Update 01) 
+as of 281720D*APR2008 
+Unit reported a suicide attack against a DEU convoy. The convoy consists of Electronic Warfare and Mixed RECCE COY driving on road PLUTO from PRT KDZ to PRT MES via PRT PEK. No casulties, no damages. ...more... 
+UPDATE: 
+09.40L RC N JOC inforemed PRT PEK OPS about a POSS suicide IED attack against a PRT KUNDUZ convoy in PRT PEK AOR. 
+09.45L QRF and EOD were alerted. 
+10.00L ANSF informed PRT PEK, that the attack had been an IED attack,but it has not been confirm yet. 
+10.20L The investigation team left the camp. 
+11.10L The team reached the spot, made the contact with the ANP. Together blocked the road PLUTO,but made a bypass.They started the investigation. 
+11.20L The primary check confirmed that it had been an IED attack.There is no evidence of suicide activity. 
+**As a consequence this event was retitle as an Insurgent attack and remains closed. 
+***Event closed at 281618D* IED Strike 42SVF800094 
+Afghanistan/Baghlan/Baghlani Jadid 
+31km NE of FOB POLE-E-KUMRI
+
+End of duplicate report summary
+------------------------------------------------------------------------------------
+
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.77194214,36.23058319</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VBIED) PRT MES  IVO  (ROUTE  RING ROAD): 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF INCIDENT 05-0516.
+
+AT 131400L PRT MES WAS INFORMED BY NDS ABOUT A POSSIBLE VBIED.  THE PRT MES IEDD TEAM LINKED UP WITH NDS FOR FURTHER INVESTIGATION AND THE DEU EOD TEAM TOOK OVER. AT 140948L REPORTED THEY FOUND A CAR WITH EXPLOSIVES INSIDE 100M N FROM RING ROAD NEAR NDS COMPOUND.  INVESTIGATION IS ONGOING, ROAD IS CLOSED.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.17908478,36.72850037</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT    : 2 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">RC(N) / PRT MES REPORT:
+
+THAT THE DEU MILITARY POLICE SAID THAT 1 X DEH (WOLF) ROLLEDOVER SEVERAL TIMES.  QRF AND A MEDICAL TEAM WENT TO THE SPOT.  THE DAMAGED VEHICLE WAS RECOVERED TO THE CAMP.  ALL UNITS RTB. CASUALTIES TREATED AT R2 CAMP MARMAL.
+
+BDA:  2 X NATO/ISAF (DEU) NBII
+
+SAF EVENT:  06-0373
+
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.12546539,36.67718887</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   RC WEST : 2 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCF ISAF INCIDENT 06-1119.
+
+PRT KUNDUZ REPORTS:
+
+PRT KDZ WAS INFORMED ABOUT CAR ACCIDENT IVO MUR SHEK.  INVOLVED 1 X ISAF VEH (DEU WOLF) AND ONE CIVILIAN CAR.  MIL VEH OVERTURNED AND NEEDS TO BE RECOVERED.
+UPDATE:
+THE VEHICLE WILL BE RECOVERED TOMORROW AND IS SECURED BY ITS OWN FORCES DURING THE NIGHT.  NO CASUALTIES OR DAMAE REPORTED.  ACCIDENT HAPPENED BECAUSE THE ROAD BROKE AWAY.  
+BDA:  2 X NATO/ISAF (DEU) WOUNDED
+
+SIGACT: 200806240807Z42SVF8720048900
+REPORTING UNIT:  RC NORTH / PRT KUNDUZ
+ISAF EVENT: 06-1119
+EVENT TYPE: TRAFFIC ACCIDENT
+DTG: 241237LJUN08
+GRID: 42S VF 87200 48900
+PROVINCE: KUNDUZ 
+DISTRICT: ALIABAD
+REMARKS: PRT KUNDUZ REPORTS THAT THEY WERE INFORMED ABOUT A CAR ACCIDENT IVO MUR SHEK.  INVOLVED 1 X ISAF VEH (DEU WOLF) AND ONE CIVILIAN CAR.  MIL VEH OVERTURNED AND NEEDS TO BE RECOVERED.
+UPDATE: PRT KDZ WAS INFORMED ABOUT CAR ACCIDENT IVO MUR SHEK.  INVOLVED 1 X ISAF VEH (DEU WOLF) AND ONE CIVILIAN CAR.  MIL VEH OVERTURNED AND NEEDS TO BE RECOVERED.
+BDA:  2 X NBI NATO/ISAF (DEU) WIA
+
+EVENT CLOSED AT 2106L</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.85691071,36.58548355</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   PRT FEY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF INCIDENT 06-1196.
+
+AT 241710L JOC PRT WAS INFORMED BY THE LEADER OF DANISH MOT 2 THAT BOTH VEHICLES OF THE MOT (WOLF SSA) GOT STUCK IN A RIVERBED IN THE VAKHAN AREA.  NO SOLDIERS WERE INJURED.  THEY TRIED TO RECOVER THE VEHICLES UNTIL NIGHT HOURS CAME.  THE ASSESSMENT OF THE GFC WAS THAT THEY ARE NOT ABLE TO RECOVER THE VEHICLES THEMSELVES.  AFTER A POSSIBLE REOVERY ONE OF THE VEHICLES WILL NOT BE ABLE TO DRIVE DUE TO WATER IN THE ENGINE SYSTEM.  AT 1800L PRT REQUESTED SUPPORT WITH ROTARY WINGS. CAPACITY FROM ROAC RC N TO PULL OUT THE VEHICLES OUT OF THE RIVERBED.  AT 241930L RAOC RC NORTH HAS NO POSSIBILITY TO PROVIDE ROTARY WINGS FOR THE RECOVERY DUE TO THEIR CAPABILITIES, THE DISTANCE AND THE FUEL SITUATION.  AT 2030L PRT PR REQUESTED RAOC RC NORTH TO CHECK THE  POSSIBILITY OF GETTING ROTARY WIND SUPPORT FROM RC EAST WITH ANOTHER ASSET, WHICH IS ABLE TO LIFT THE VEHICLE.  AT 242100L PARALLEL PRT TASKED THE THE DEU MOLT 1 CURRENTLY IN BAHRAK DISTRICT ON A LTP TO BE PREPATED TO CONDUCT A RECOVERY MISSION AFTER REINFORECEMENT WITH RECOVERY VEHICLES FROM PRT.  TU TEZ WAS WARNED TO LEAVE THE CAMP FEY NLT 0700 TO ESCORT THE RECOVERY VEHICLES TO  SAFE HOUSE BAHARAK.  AT 250630L TU TEZ DEU MOLT 4 LEFT AFTER THE PRT WITH MEPT AND RECOVERY VEHICLES (ONE TON TRUCK AND ONE 5 TON TRUCK).  AT 251050L TU TEZ LINKED UP WITH MOLT 1 AND HANDED OVER 2 X RECOVERY VEHICLES.  AS 251455L MOLT 1 LEFT THE SH BAHARAK IN THE DIRECTION OF VAKAHAN WITH THE AIM TO REACH THE SH IN ESHKASHEM, MOST LIKELY NLT 251900L.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">72.44728851,36.98360825</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) OTHER RPT   PRT KDZ : 1 CIV WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF # 06-1318
+
+FF REPORTED ON A ROAD TRAFFIC ACCIDENT INVOLVING AN ISAF VEH (DEU FUCHS) AND A CIVILIAN PERSON RIDING A BIKE.  THE CIVILIAN WAS INJURED (NO DAMAGES OR INJURIES TO ISAF TROOPS).  UNITS MEDIC GAVE TREATMENT TO THE LN (A CHILD WITH ONE BROKEN THIGH AND STRONGLY BLEEDING).  LN WILL BE MEDEVACD TO KDZ R2.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.42443848,36.72634888</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) PRT KDZ IVO  (ROUTE LITTLE TAURUS): 3 CF WIA 3 CIV WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">FF reported an IED strike.  PRT KDZ was informed by FENNEK RECCE team that while doing a patrol that the vehicle struck an IED.  
+BDA: 3x NATO/ISAF (GER) WIA (light injuries), 1x FENNEK vehicle damaged (non-operational).  NFI, att. UPDATE: MP AND MED COY WENT TO THE LOCAL HOSPITAL TO CHECK THE STATUS OF THE INJURED LNS.  THERE WERE 3 X LNS WOUNDED, 2 X LNS WENT TO THE HOSPITAL.
+
+ISAF #06-1441
+DEU EOD reports
+THe CWIED was hidden under a small bridge. When the second vehicle (Fennek) passed the bridge. The IED was detonated by command wire. EOD collecated Battery, firing switch and electric cable from the scene.
+
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.80953217,36.75940704</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   RC NORTH / PRT KUNDUZ INF COY : 1 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF INCIDENT # 07-0409:
+
+RC NORTH / PRT KUNDUZ INF COY REPORT ONE (1) DINGO VEHICLE ROLLED OVER SHORTLY AFTER LEAVING PRT KDZ WHILE DRIVING ONE KM EAST TOWARD LOC PLUTO.  MEPT WAS PART OF THE PTR.  MEDICAL CHECKED PERSONNEL; THERE WAS ONE NATO/ISAF (DEU) WITH MINOR INJURIES (CAT E) AND BEING TRANSPORTED TO PRT KDZ ROLE 2.  RECOVERY VEHICLE AND MP ORDERED TO THE LOCATION. 
+
+NBI:  1 X NATO/ISAF (DEU) NBI
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.89144897,36.66846085</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   PRT FEY / DEU MOLT : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF INCIDENT # 07-0574
+
+PRT FEY MOLT 3 (MOBILE OBSERVATION LIASON TEAM) REPORTED UXO FOUND ON THE PRT FEY SHOOTING RANGE.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.52763367,37.12742233</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(CRIMINAL EVENT) OTHER RPT    : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">Local National works as Language Assistant for DEU OMLT, attacked by 3x persons with knives; was threatened to be killed if continue to work for CF. Was treated at the local hospital.
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.10569763,36.70752335</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU LOG SUP : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF EVENT 07-1322.
+
+DEU LOG SUP REPORTS THAT RECOVERY FORCES WERE ALARMED TO THE BREAKDOWN OF AN APC DINGO II (DEU MIXED RECCE COY) ON LOCATION URANUS AT 42S UF 9180 4600.  ALARMED FORCES DEPLOYED TO LOCATION OF THE BREAKDOWN.  WHILE MARCHING ON LOCATION URANUS IN THE DIRECTION OF AYBAK AT GRID 42S UF 84000 55000, 1 X LN VEHICLE TRIED TO GET INTO DEU CONVOY AND APPEARED TO DRIFT INTO THE LEAD VEHICLE.  ALL SIGNS GIVEN BY LEADING APC WERE IGNORED BY LN DRIVER.  FF FIRED 1 X ROUND INTO THE SANG IN FRONT OF THE APPROACHING VEHICLE.  THE CAR STOPPED AND THERE WAS NO FURTHER THREAT FOR THE CONVOY.  FF CONTINUED WITH THEIR MISSION.
+BDA: NONE</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.70251465,36.63349533</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) DEU PRT KONDUZ IVO  (ROUTE ARCHER): 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEU, NDS, ANP patrol attacked by ACF who were believed to be setting up a DFP along the road (Route Archer). CAS was called and a Luna was launched in support of the patrol. NFI ATT.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.93732452,36.67480087</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) ANSF / DEU EOD : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">ANSF turned over the components to German EOD. EOD conducted remote RSP actions, and recovered the evidence.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.23814392,36.72154617</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   PRT FEY : 2 CIV WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">REFERENCE ISAF INCIDENT 07-0249.
+
+FF REPORTED RECEIVING INFORMATION ABOUT FHT (FIELD HUMINT TEAM) WAS INVOLVED IN A CAR ACCIDENT.  MTF.
+UPDATE:
+TASK UNIT TEZ 1 AND MEPT LEFT THE SPOT WITH THE INJURED PERSONS, NOW ON THEIR WAY BACK TO RCC PRT FEY.  1905L MP CONCLUDED THEIR INVESTIGATIONS AT THE SPOT.  RECOVERY OF THE DAMAGED VEH IS CURRENTLY ONGOING.
+BDA:  2 X NATO/ISAF (DEU) NBI;  1 X ISAF VEH DAMAGED
+
+SIGACT:  200807051337Z42SXG3230005100
+REPORTING UNIT:  PRT FEY
+ISAF EVENT:  07-0249
+EVENT TYPE:  ACCIDENT
+DTG:  051807LJUL08
+GRID:  42SXG 32300 05100
+PROVINCE:  BADAKHSHAN
+DISTRICT:  ARGO
+REMARKS:  PRT FEY REPORTED THAT A FIELD HUMINT TEAM WAS INVOLVED IN A CAR ACCIDENT RESULTING IN TWO GERMAN CASUALTIES.  TASK UNIT TEZ 1 AND MEPT LEFT THE SPOT WITH THE INJURED PERSONS, NOW ON THEIR WAY BACK TO RCC PRT FEY.  AT 1905L MP CONCLUDED THEIR INVESTIGATIONS AT THE SPOT.  RECOVERY OF THE DAMAGED VEHICLE IS CURRENTLY ONGOING.
+BDA:  2 X NATO/ISAF (DEU) NBI;  1 X ISAF VEH DAMAGED</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.48848724,37.08285522</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (CWIED) PRT KONDUZ : 1 CF KIA 3 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0604Z, RC North reported an IED strike.  FF were conducting NFO patrol when they struck an IED.  BDA: 1x NATO/ISAF (DEU) KIA, 2x NATO/ISAF (DEU) WIA (CAT D) and no damage reported.  The casualties were MEDEVAC to PRT Konduz.  NFI att.
+
+At 0756Z, RC North reported update:
+Update to casualties is 1x NATO/ISAF (DEU) KIA (DOW) and 3x NATO/ISAF (DEU) WIA (CAT C).  FF are searching for INS in a village IVO of the IED site.  NFI att.
+
+At 1526Z, RC North reported:
+
+FF did not report site exploitation.  NFTR.  Event closed at 1424Z.
+
+ISAF # 08-1451
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.87475586,36.61254883</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VBIED) OMLT PRT KDZ : 3 CF WIA 1 UE KIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">While conducting routine patrol FF vehicle broke down.  While attempting to recover the broke down vehicle FF were struck by a possible SVBIED.  BDA: 1x INS killed (not confirmed), 3x NATO/ISAF (GER) WIA (2x CAT A, 1x CAT C), no damages were reported.  MEDEVAC was completed.  NFI, att.
+
+At 101225ZSEP, RC North reported:
+
+FF did not report confirmation or site exploitation of any kind.  NFTR.  
+
+Event closed at 091141ZAUG.
+
+ISAF #08-275</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.83177185,36.32310867</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (SVBIED) PRT KDZ : 2 CF KIA 1 CF WIA 5 CIV KIA 1 CIV WIA 1 UE KIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0919Z, PRT KDZ reported a SVBIED Strike.  FF reported they suffered a SVBIED Strike.  BDA: 2x DEU ISAF killed, 2x DEU ISAF (CAT C) wounded, 1x LN (CAT UNK) wounded, 5x LN Children (CAT UNK) killed, 1x Motorbike (Mines in saddlebag) destroyed, and 1x MUNGO vehicle (heavily) damaged.  MEDEVAC has been requested.  NFI att.
+
+At 1057Z, PRT KDZ reported:
+Update to BDA: 2x KIA (ISAF, DEU), 1x WIA (ISAF, DEU, CAT B), 5 killed LN (children), 1x wounded LN (child, CAT B), 1x MUNGO heavily damaged. NFI att.
+
+At 1322Z, PRT KDZ reported:
+FF reported that recovery unit and CSI deployed to the scene to investigate. Afterwards FF began RTB. NFI att.
+
+At 1444Z, PRT KDZ reported:
+1x WIA ISAF CAT B has been downgraded to CAT C. Recovery forces arrived on scene and began the investigation and recovered the damaged vehicle. F PLT are RTB. Updated BDA: 2x KIA (ISAF, DEU), 1x WIA (ISAF, DEU, CAT C), 5x killed LN (children), 1x wounded LN (child, CAT B) 1x MUNGO heavily damaged. NFI att.
+
+At 1636Z, PRT KDZ reported:
+All FF have RTB. NFI att.
+
+At 1824Z, PRT KDZ reported:
+Updated BDA: 2x KIA (ISAF, DEU), 1x WIA (ISAF, DEU, CAT C), 5x killed LN (children), 1x wounded LN (child, CAT B), 1x killed INS, 1x MUNGO heavily damaged.
+
+1950Z, PRT KDZ reported:
+NFTR. Event closed at 1935Z.
+
+ISAF # 10-0999
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.85680389,36.64588547</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) PRT FEY : 3 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1245Z, PRT FEY reported an IED Strike:
+FF report that they were conducting a NFO Patrol when they suffered an IED Strike in the city of Feyzabad IVO city house. All attacked forces are back at PRT/ WIA have already been treated in MTF. BDA: 3x DEU WIA (CAT D), 1x WOLF SSA lightly damaged. NFI att.
+
+At 2012Z, PRT FEY reported:
+At 1230Z, There was an update to the casualties with information provided by the local hospital. 8x LN injured by the explosion. At 1630Z, PRT FEY received information from the Chief Surgeon of the Hospital that 8x LN wounded were hospitalized. 5x were released immediately, 3 of which were younger than 18. #x remained in the hospital with at least 1 of whom is a child. BDA: 4x DEU WIA (CAT D), 8x LN wounded (CAT UNK), 1x WOLF SSA lightly damaged. NFI att.
+
+ISAF # 11-0908</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.54833221,37.09380341</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   PRT MES : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1311Z, RC North reported UXO Finds.
+
+While on a security patrol FF found: Part of RPG was found at grids 42S UF 50736 65441, 2 20mm rounds at grids 42S UF 50866, 66737, part of RPG at grids 42S UF 52361 67165, and 80mm mortar shell at grids 24S UF 46760 73178.  
+UXOs will be BIP by DEU EOD Team.  
+NFI att.
+
+ISAF # 11-1070
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.32814026,36.72257233</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   FSB MES : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1157Z, RC North reported UXO Finds.
+
+While on a security patrol, FF found 1x AO 2,5 (submunition) at grids 42S UF 5310067140, 3x mortar shells without fuse at grids 42S UF 43194 60519.  
+UXOs will be blown in place by DEU EOD Team.  
+
+NFI att.
+
+ISAF # 11-1099
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.35468292,36.73826599</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) PRT KDZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1041Z, PRT KDZ reported an IED Strike:
+FF reported receiving information that B Plt (DEU) suffered an IED Strike at 1000Z while they were providing Force Protection to LMT 2 (Liaison Monitoring Team). B Plt is returning to PRT KDZ. 
+BDA: 1x FUCHS vehicle damaged. NFI att.
+
+At 1300Z, PRT KDZ reported:
+At 1200Z, FF have RTB. EOD and CSI have begun examination of the damaged vehicle. NFI att.
+
+ISAF # 11-1238</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.65319824,36.89337158</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) TURN IN RPT   PRT KDZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1505Z, RC North reported a UXO Turn-In:
+PRT KDZ reported 5x BMP-1 Rockets with 5x fuses were handed over to PRT KDZ HUMINT Unit. EOD BEL at PRT KDZ has been informed. HUMINT Unit reported an Unsafe security situation. HUMINT Unit picked up Rockets and arrived back to OPRT KDZ. At 1425, the items were handed over to EOD BEL KDZ. NFI Att.
+
+At 0924Z on 05DEC08, RC North reported:
+At 0919Z on 05DEC08, the 5z BMP-1 Rockets with 5x Fuses were destroyed by PRT KDZ DEU EOD Team. NFTR. Event closed at 0919Z on 05DEC08.
+
+ISAF # 11-1559
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.86902618,36.69277573</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FALSE RPT   PRT MES : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0855Z, RC North reported a possible VBIED find.  PRT MES reported a possible VBIED in the front of the main gate at CNL.  This action was taken due to previous information about a robbery of a garbage truck this morning.  QRU was alerted.  The main gate was closed.  Decision taken to use spare gate instead.  At 0800Z, IEDD team tasked to investigate.  No casualties or damage reported.  NFI att.
+ 
+At 1140Z, RC North reported.  At 0830Z, GER forces outside the CNL informed of the situation. At 0832Z, cordon was established by GRU in the east and west direction.  And 0902Z, the truck driver was interrogated.  Based on the obtained information the situation was still handled as a VBIED.  At 0840Z spare gate was opened.  At 1000Z, the truck was checked and reported to be clean.  PRT MES is back to normal situation.  
+NFTR.  
+Event closed at 1010Z.
+
+ISAF # 12-1347
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.13913727,36.69250107</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   PRT KDZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1417Z, RC North reported a UXO Find:
+DEU EOD reported that they discovered a UXO consisting of 4x 76mm HE Shells at KDZ AF during a planned UXO sweep. UXOs were transportable and were picked up by EOD for later demolition. At 0830Z, DEU EOD RTB. NFTR. Event closed at 1413Z.
+
+ISAF # 02-670</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.91900635,36.66539764</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   PRT KUNDUZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1204Z, RC North reported UXO(Turn In) Find.  FF reported that LN construction workers found a UXO close to the PRT KDZ.  The workers brought it to the northern gate and marked it with stones.  At 1100Z EOD DEU arrived and identified the UXO.  UXO was not transportable and will be destroyed at the spot.  Controlled demolition took place at appox 1120Z.  No casualties or damage was reported.  NFI att.
+
+At 1821Z, RC North reported:
+At 1125Z, the attempted Controlled Detonation was not successful. At 1140Z, a second Controlled Detonation was successfully carried out. At 1200Z, the area was clear of UXOs and EOD was back in the PRT KDZ. NFTR. Event closed at 1422Z.
+
+ISAF # 02-0712</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.90185547,36.67072296</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   RC NORTH/DEU MP TRNG CO ANP : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0944Z, RC North reported UXO Find.  FF reported while PMT of DEU MP Trng Co ANP were on patrol in Dehdadi they found 1x Mortar Shell in front of the District Admin Office grid 42S UF 19840 60910.  FF marked the UXO for later disposal and continued vehicle patrol.  No casualties or damage reported.  NFI att.
+
+At 1727Z, RC North reported:
+At 0900Z, PRT MES EOD arrived at the site and picked up the UXO for later disposal. At 1050Z, all FF have RTB. NFTR. Event closed at 1712Z.
+
+ISAF # 02-751</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.98381042,36.67676926</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) RC NORTH/ANSF : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0330Z, RC North reports an IED find.  FF reports that ANSF found IED components.  EOD took position of the components and disposed of them in a controlled detonation.  No casualties or damage reported.  NFI att.  
+
+The components of an IED were found by ANSF after the information about its presence was provided by two LN. ANSF called DEU EOD CC for support. At 250930D*, the DEU EOD CC met ANSF at 42S UF 5355967402 for handover of the IED components and examination.  After the exploitation, EOD confirmed they were IED components (the power source was missing). The components were destroyed. There were no casualties or damage reported.
+
+Event closed at 1707Z, 07Apr09.
+
+ISAF #03-1649
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.78022766,36.77280045</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (Components) PRT KDZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1116Z, RC North reported a UXO Find:
+FF reported the finding of a UXO. GER EOD picked up the UXOs for later disposal. All FF RTB. No injuries or damages reported. NFTR. Event closed at 1105Z.
+
+At 1842Z, RC South reported:
+At 1307Z, while exploiting the 4x Mines FF discovered 2x 5 Gal. Jugs of HME at Grid: 41 R PR 77440 07600, 1x 5 Gal Jug of HME at Grid: 41R PR 77370 07610 and 1x Buried IED at Grid: 41R PR 77360 07640. These IEDs are in the same location as the ambush of ISAF Event 03-0025 on 01MAR09. A LN reported he witnessed INS installing the mines and IEDs yesterday after the ambush after which they moved off to the North. EOD has now BIP all the mines and IEDs. NFTR. Event closed at 1529Z.
+
+ISAF # 03-0086</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.77401733,36.67736435</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT  (Mortar) PRT MEY/B PLT DEU MPT CO/ANP : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0728Z, RC North reported a Weapons Cache Find.  FF reported that they found 3ox 80mm Mortar Rounds in the Police HQ Building.  FF informed PRT MES TOC and EOD, then marked the UXO with red color and continued training.  No casualties or damage reported.  NFI att.
+
+***DELAYED REPORT***
+
+At 030900ZMAR09, FF reported EOD cleared 48x 76mm Mortar Shells at the Police HQ of Feyzabad and took them back to PRT MES. No casualties or damage reported.  NFTR.  Event closed at 031252ZMAR09.
+
+ISAF # 03-0111</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.45695496,36.82466507</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VBIED) PRT MES : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0624Z, RC North reported a Possible VBIED Strike.  FF reported that while a German unit was travelling through Mazar-E-Sharif City they suffered a Possible VBIED Strike.  No casualties reported, 2x vehicles damaged(type unreported).  NFI att.
+
+At 0606Z, two GER military on scene reported that there is still explosives in VBIED that did not explode.  At 0719Z, ANP arrived and cordoned area, and PRT MES EOD began to exploit site.  The scene commander reported that the scene was being filmed at the Eastern cordon, and took action against those who were filming.  A cell phone was found at the door of the VBIED car.  The scene commander reported filming might also be happening at the Western cordon.  GER forces will advance towards the scene and link up with PRT MES units from the West.  At 1145Z, PRT MES units were back to PRT Camp.  No further casualties or damage reported.  NFI att.
+
+ISAF # 04-0573
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.13353729,36.71337128</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VBIED) PRT KDZ : 5 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0629Z, RC North reported an IED strike:
+FF reported while conducting an NFO patrol they struck an VBIED (silver-grey Toyota Corolla).  FF reported damage to a DINGO, no further movement possible.  ANSF arrived on scene.  Initial BDA:  4x soldiers lightly injured (CAT UNK).  MEDEVAC not requested.  
+At 1005Z, FF reported an updated BDA of 5x DEU WIA (CAT D) lightly injured with burn on hands and faces.  At 1120Z, all forces returned to PRT KDZ.  Damaged DINGO vehicle was towed to PRT Camp.  NFI att.
+
+NFTR. Event closed at 1430Z.
+
+ISAF #04-1330
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.89939117,36.58462524</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) PRT FEY EOD : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0759Z, RC North reported an IED Find.  PRT FEY an IED found at 42SXF 73830 98090.  EOD responded and has completed procedures on the IED.  Type of IED has not been reported att.  No casualties or damage reported.  Event closed at 1434Z.
+
+ISAF # 05-0302
+
+DEU EOD received intel of possible IED from J2. EOD swept site and discovered 1 x RCIED EOD conducted render safe procedures succesfully and PUCA IED components for exploitation.
+
+THE IED was RCIED with a spider MOD (remote door bell)
+the parts of the IED (can, detonator cap, explosives, battery, antenna, spider mod) were secured by EOD
+
+09/CEXC-A/1068</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.95389557,37.01291656</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) SCHUTZ KP E / BEL OMLT MIT ANA IVO  (ROUTE LITTLE PLUTO): 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">On 06 May SchuitzKP-E, DEU IEDD team, BEL OMLT with ANA got a task for a route search, for a P-IED.
+
+Cordon was established.
+EOD interrogated site and discovered  a CWIED consisting of electric wire, UBE in a yellow, battery pack, EOD was unable to PUCA so the IEDD team BIP the IED.
+
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.84598541,36.63901901</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ERW RECOVERED RPT   NDS / PRT KDZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT KDZ reported that NDS has found 6 x RPGs and 1 x anti-personnel mine in the Northern CHAHAR DARREH district. NDS handed over the ammunition to the DEU EOD in OCCP. DEU EOD destroyed the ammunition at SR WADI. DEU EOD returned to PRT KDZ. NIDE redporte.
+
+Event closed at 1851D</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.86943817,36.72401428</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ERW/TURN-IN RPT   AW MES FP / DEU RECCE PATROL : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1157Z, RC North reported a UXO Find.  AW MES FP reported that DEU RECCE Patrol while conducting a NFO patrol found 1x 107mm rocket (possibly multiple rockets) in the backyard of a resident of Qisilabad. "The man wanted to hand over the rockets for timber, for a construction site.'
+At 1345D CIMIC arrived at the site. 
+At 1422D EOD arrived at the site. 
+EOD transported the rocket(s) to a secure area for destruction.  
+No casualties or damage reported.  
+NFI att.
+
+Event closed at 1406Z.
+
+
+ISAF # 05-1325
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.19498444,36.71882629</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) JOC PRT FEY / MOLT 3 : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0716Z, RC North reported an IED Explosion.  JOC PRT FEY reports that MOLT 3 reported an IED explosion while en route to Cak-I-Abdul.  No casualties or damage reported.  NFI att.
+
+At 0634Z, site of IED strike was secured.  EOD and MP exploited site which revealed a mass of 5-7 kg bursting charge.  IED strike was against medical support car.  No casualties or damage reported.  At 1050Z, FF returned to FOB Camp Fey.  Event closed at 1325Z.
+
+ISAF # 05-1466
+
+DEU EOD PRT FEYZABAD: EOD 2
+CEXC-A 09-1248
+
+EOD conducted PBA determined to have been an RCIED.
+EOD collected evidence and turned site over to Deu MP CSI Team.
+
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.57266998,37.07365417</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (RCIED) PRT KDZ  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1839Z, RC North reported an IED find:
+ANP reported they found an IED IVO ANP CP.  EOD team deployed to site and located by robot 1x metal tube RCIED with 1x electronic component, 1x mobile phone and 1x 9v battery.  EOD recovered the device for later disposal.  No injuries or damage reported.  NFI att.
+
+ISAF #05-1771
+DEU EOD/IEDD
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.81568909,36.70100784</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) ATTACK RPT  (RPG,Small Arms) PRT KDZ : 3 CF KIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">RC North reported a IED Strike with SAF.  FF reported German troops came under attack by unknown number of INS. 1x FOX vehicle flipped into river as a result of IED Strike.  FF reported that the attack was an IED followed by SAF.  TIC resulted in casualties.  BDA: 3 X ISAF/NATO (DEU) KIA (1 X DROWNED), 3 X INS KIA (UNCONFIRMED).  At 1245Z, vehicle recovery is ongoing.
+
+ISAF # 06-1777
+
+----------------------------------------
+Final Summary 
+
+PRT KDZ reported that INF PLT E reported about an attack with RPG and SAF at 42SVF859546 IVO LOC LITTLE PLUTO. PROTECTION COY PRT KDZ was executing an IED sweep and observation with INF PLT A, INF PLT C, INF PLT D and INF PLT E, RECCE SQD, EOD, EW and MEDICAL FORCES. INF PLT E returned fire immediately without noticing effect on target. No own casualties and damages. At 1204D* MINIMIZE was activated. At 1219D* CAS showed of force. At 1224D* INF PLT C and INF PLT D withdrew under observation of INF PLT A and INF PLT E into NW direction via WESTPLATEAU. At 1238D* INF PLT E reported about an accident of tactical FOX vehicle at 42SVF 857 547 during withdrawing. Probably own casualties. At 1240D* Medical troops initiated first aid. At 1304D* IRF with recovery forces left PRT to the place of accident. At 1308D* COM PROT COY reported SAF IVO place of accident from eastern direction. At 1320D* Two wounded soldiers from crew of accident FOX were still treated by medic. One soldier was still encircled in vehicle. At 1348D* Two soldiers from FOX crew died, one soldier was still encircled in vehicle. At 1420D* IRF with recovery forces were on scene. At 1547D* Encircled soldier from FOX crew died. At 1500D* INF PLT D and INF PLT E were back at PRT. Three soldiers got shock status. Immediate treatment by MTF. Recovery was ongoing. No enemy contact was at that moment. At 1510D* Report from COM PROT COY: Approximately one additional hour necessary for recovery. At 1555D* COM PROT COY reported one additional hour necessary for recovery. At 1606D* ANA QRF PLT was having for reinforcement along LOC KAMINS between points J93 and X04 in contact with COM INF PLT at PHQ CHAHAR DARA.
+
+UPDATE 1645D* 
+ANA QRF PLT established observation position along LOC KAMINS between J93 and X04 for further movement of own forces back to PRT KDZ. At 1702D* Damaged FOX vehicle was recovered out of little river at place of accident by crane. At 1731D* Recovery was still ongoing. Positions of own forces were unchanged.
+
+UPDATE 1802D* 
+Report from COM PROT COY: Recovery finished and they were ready for movement. At 1825D* Due to initial reports of PLT leaders who already returned at PRT: 3x INS probably killed. UAV LUNA was still on scene for observation of movements from own forces. 
+
+UPDATE 1830D* 
+UAV LUNA still on scene for observation of own forces movements. At 1920D* Position PLT PROT COY at OP LEBACH (42S VF 825 569). At 1925D* ANA QRF PLT withdrew because of because of increasing darkness. At 1959D* RECCE SQD A2 received SAF from eastern direction. INS (number UNK) withdrew into eastern direction. UNK effect on target. NFI.
+
+UPDATE 2128D*
+ASOC reported CAS IG KINETIC//IG 1777//HG61// 1xWP (warning shot)// 42S VF 80064 61510
+
+UPDATE 2226D*
+At 2001D* RECCE SQD A2 reported place of mentioned fire struggle: OP LEBACH (VF825 569), RECCE SQD A2 returned fire immediately. Effect on target UNK. At 2052D* PROTECTION COY and IRF started to march back to PRT KDZ. At 2140D* PROTECTION COY and IRF arrived in PRT KDZ. INF COY (INF PLT H, INF PLT G, RECCE SQD A3) was in PHQ CHAHAR DARA to stay over night and to march back to PRT KDZ on 24th. NFI.3 Killed in Action german(DEU) NATO/ISAF
+3 Killed None(None) Insurgent
+
+End Duplicate report Summary
+----------------------------------------------
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.84004211,36.63774872</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED AMBUSH RPT  (UNK) PRT KDZ : 2 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0748Z, RC North reported an IED strike:
+FF reported an IED strike and SAF attack at grid location.  FF was on patrol IVO RIVERLOOP on location Little Pluto when the incident occurred.  FF returned immediate fire to the INS.  FF reported 1x INS killed and 1x Dingo vehicle destroyed.  CAS was requested.  At 0724Z, contact with INS broken.  FF built a roadblock.  2x A10 arrived on scene for CAS.  FF reported a fire fight against INS at grid 42S VF 86700 53400 from E direction.  FF reported 2x DEU WIA (1x Cat B, 1x CAT D).  Both wounded soldiers are enroute back to PRT KDZ.  At 1159Z, FF were back in PRT.  NFI att.
+
+ISAF # 06-0456
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.85797882,36.61343384</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   DEU NAMSA : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1402Z, RC North reported a UXO Find.  FF reported they found a UXO near runway that was brought in with a load of sand by truck from nearby construction area.  EOD destroyed UXO.  No casualties or damage reported.  NFTR.  Event closed.
+
+ISAF # 06-0570
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.22533417,36.71387482</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED SUSPECTED RPT   DEU RECCE : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 1751Z, RC North reported a UXO Find.  FF reported that while conducting a patrol they found 1x UXO(possible Mine) near the road.  FF marked position and EOD will investigate on 09JUN09.  No casualties or damage reported.  NFI att.
+
+ISAF # 06-0592
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.22940826,36.65569687</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) DEU OMLT IVO  (ROUTE BANANA): 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT KDZ reported that DEU OMLT suffered an IED strike resulting in 1x vehicle (APC Dingo) damaged.  The convoy pushed through IOT reach Police Station Zar Kharid-I Sufa.  The IED was possibly placed in a culvert.  No casualties reported.  Event closed.
+
+Update 
+PRT KDZ requested ANP to cordon site, IRF and Recovery team notified.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.84989166,36.74954605</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) INTERDICTION RPT  (RCIED)  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 270400D*JUL09 an suspect person was monitored with the camp eye as he dug a hole and put down a suspect object likely an IED by grid 42S XF 36200 08800. The suspect object was placed on the road next to a earth embankment. The IRT was alerted and moved to the position where the suspect object could be. 
+The IED was placed behind a bend on the left side of the road. On the same day a DEU ISAF convoy should take this road in direction Yaftal-E Sofla. The DEU ISAF convoy didn't leave the camp. 
+The EOD worked on the position and found a real IED. 
+In the vicinity of the IED location was placed a Jammer.
+The IED consist of a pressure cooker, a remote car door look device, a battery pack and cable. All pieces were together in the hole. The IED was a RCIED and it was ready to wor</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.51525116,36.21446228</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) GERMAN COY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">ANP INFORMED EUPOL ABOUT AN IED CONSISTING OF 2X BOMBS IN BORYA BAF VILLAGE.  LATER A DIFFERENT SOURCE REPORTED APPROX. 15-30X INS IN THE AREA OF POSSIBLE IED.  ADDITIONAL INFORMATION RECEIVED BY PRT MES STATED THAT 6X ARMED MEN HAD BEEN SEEN EMPLACING LANDMINES IN 3X LOCATIONS.  1X MINE IS LOCATED ON HILL NEXT TO ROAD AND 2X MORE WERE ON THE ROAD.  AT 1505L, PRT MES SENT TROOPS TO SITE (2X RIFLE SQDS, IEDD TEAM, AND MOBILE MEDICAL TEAM).  PATROL (22-25X PAX AND 5X VEHICLES) OF GER MIXED RECCE COY WAS IN THE SHULGAREH AREA. AT 1700L, PRT MES UNITES AND DEU MIXED RECCE COY LINKED UP WITH COP SHULGAREH.  AT 1731L, PRT MES TROOPS AND GER UNIT ESTABLISHED A LARGE CORDON IN SURROUNDING AREA AND AT 1958L, A PPIED WAS CONFIRMED.  AT 2024L,  IEDD TEAM RENDERED THE IED SAFE AND AT 2107L, TF DEPLOYED CORDON FURTHER SOUTH AND CONTINUED WITH SEARCHING FOR ADDITIONAL POSSIBLE IEDS 200M SOUTH FROM CONFIRMED IED.
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.93243408,36.44812012</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) ATTACK RPT  (RPG,Mortar,Small Arms) BEL OMLT : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">AT 1943Z, BEL OMLT REPORTED THAT THEY WERE IN A FIRE FIGHT WITH INS.  BEL OMLT WERE AT POSITION WF 092 611 AND WERE ATTACKED WITH MORTARS, RPGS, AND SAF FROM DIRECTION OF WF 094 619. AT 2000Z, BEL OMLT REQUESTED ILLUMINATION WITH MORTAR 120MM BY QRF COY DEU, WHICH WAS AT THE PHQ KHANABAD (WF 102 594).  AT 2003Z QRF COY FIRED 3X ROUNDS OF ILLUMINATION WITH MORTAR 120MM.  NO INJURIES OR DAMAGE. </literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.10186768,36.69551086</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT   ANP, ANA, DEU OMLT : 3 UE DET </literal></binding>
+      <binding name="description"><literal xml:lang="en">AT 0900D, OCCR REPORTED A FIREFIGHT BETWEEN ANP, ANA, AND INSURGENTS. AT 1000D, ANP, ANA, AND DEU OMLT WERE CHASING THE INSURGENTS. AT 1020, THE OMLT WITHDREW FROM THE FIGHT WITH ANA AND ANP STILL IN CONTACT TO SET UP A CORDON FOR NDS TO CONDUCT A SEARCH. 3X INS WERE PID. AT 1057D, NDS ARRESTED 3X INS. ALL UNITS ARE BACK IN DARZAB POLICE STATION.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">65.36642456,35.99965286</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) ATTACK RPT  (Small Arms) PRT MEYMANEH : 1 HNSF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">ISAF N JOC REPORTED THAT ANA/ANP  WERE INVOLVED IN A TIC IN THE VILLAGE OF CHELGAZI IN THE QEYSAR DISTRICT, RESULTING IN 1x ANP WIA, WHO WAS ALREADY ON HIS WAY BACK TO FOB QEYSAR. AT 200837D* THE ANP ARRIVED TO THE FOB FOR MEDICAL APPRECIATION FROM THE MOT.  A MEDEVAC WAS REQUESTED AND APPROVED BY RC-N; THE PATIENT ARRIVED TO DEU R3 HOSPITAL IN MES BY F-50 FLIGHT FROM MEYMANEH.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">63.93764496,35.72711945</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) SAFIRE RPT  (RPG,Small Arms) DEU CH-53 : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">AT 301540D* DEU HELICOPTER CH-53 EXECUTED AN EMERGENCY LANDING ON KDZ AIRFIELD, WITH OUT ANY CASUALTIES.  THE AIR CREW REPORTED THAT 3x UNK INDIVIDUALS WERE AT GRID 42SVF925610 WITH AN PRG. AFTER CONFIRMING THAT THE INDIVIDUALS DID INFACT HAVE AN RPG, THE ENGINE ALARM SOUNDED AND THE AIR CREW NOTICED IMPACTS ON THE HELICOPTERS ENGINE AND CELL. THE GUNNER REPORTED THAT HE SAW SAF FROM THE MENTIONED GRID. MILITARY POLICE HAVE STARTED AN INVESTIGATION. NFI
+
+UPDATE:
+INVESTIGATION FINISHED. SEVERAL SAF HITS TO BOTH ROTARY SYSTEMS, WHICH HAD TO BE REPAIRED. THE HELICOPTER IS STILL ON KDZ AIRFIELD.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.91603851,36.69462204</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (VOIED) ANP : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">S:1XPPIED 
+A:FOUND IED
+L:VB 8039 7013
+T:021230ZAUG2009
+U:ANP
+R:REQUESTING EOD 
+
+TIMELINE: 1230Z THE OCCP OUT OF RUSHMORE INFORMED GER TOC THAT THE ANP ARRIVED AT THE COMPOUND WITH A PPIED THAT THEY FOUND AROUND SHARANA PROPER. THEY ARE REQUESTING EOD ATT. 
+
+UPDATE: 1300Z THE SIOUX6 ELEMENT HAS BEEN SENT OUT TO ESCORT EOD.  THEY ARE ENROUTE TO DISPOSE OF THE CHARGE. 
+
+UPDATE: 1310Z THE SIOUX ELEMENT HAS ARRIVED AT THE PPIED SITE. 
+
+UPDATE: 1330Z THE SIOUX ELEMENT ROT THAT THE PPIED IS 30LBS OF UBE WITH PP. 
+
+UPDATE: 1348Z EOD USED A DISRUPTION CHARGE THAT UPON DETONATION DETONATED THE MAIN CHARGE. WHEN THE MAIN CHARGE DETONATED  IT BLEW OUT THE WINDOWS OF A  NEARBY QALAT. SIOUX 6 RPTS THAT THEY WERE UNABLE TO FIND THE OWNER OF THE QALAT. THEY ARE GOING BACK OUT TOMORROW TO MAKE REPERATIONS TO THE OWNER OF THE QALAT FOR THE BROKEN WINDOWS. 
+
+EVENT: CLOSED 1442Z THE DEVICE CONT DET. 
+
+SUMMARY: 
+1XPPIED 
+1XQALAT WITH BROKEN WINDOWS. 
+NO WIA
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.78974915,33.16981888</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (RPG,Small Arms) PRT FEY : 4 CF WIA 11 UE KIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">031113DSEP09, PRO COY FEY WHILE CONDUCTING OP ARAGON WAS ATTACKED WITH SAF AND RPG AT 42SWG219049 BY 2030X INS. 1x GL DAMAGED, 2x DEU SOLDIERS WIA.  1X OF THE WIA HAS A BROKEN LEG AND THE OTHER HAS BURN INJURIES.  AT 1124D, COY STILL IN TIC.  ENEMY WAS AT 42SWG173050.   QRF (INF PLT I AND INF PLT J) WAS DISPATCHED AT 1135D* TO PRT COY FEY LOCATION TO ASSIST IN FIRE FIGHT.   
+
+UPDATE01:
+1150D: TIC BROKEN, PRO COY MOVED TOWARD NAWABAD. DAMAGED VEHICLE WAS DESTROYED AND LEFT AT THE SCENE OF THE TIC.   
+
+1154D: QRF CAME UNDER FIRE WHILE RESPONDING TO THE ORIGINAL TIC AT 42SWG125050. 
+
+1212D: THE FIRE FIGHT ENDED; QRF HAD DESTROYED 1X PICK UP TRUCK AND KILLED SEVERAL INS. 3X VEHICLES DAMAGED.  PRO COY FEY AT 42SWG229050, HAD TO TREAT A HEAVILY INJURED SOLDIER.  AT 1215D, PRO COY AGAIN MOVED IN THE DIRECTION OF  NAWABAD.  1X EAGLE, 1X BV 206S, AND 1X DINGO WERE DAMAGED AND HAD TO BE TOWED BY OTHER VEHICLES.
+
+UPDATE02:
+1220D: MEDEVAC REQUESTED, AND J2 REPORTED A SUICIDE BOMBER ON A RED MC COMING FROM EMAM SAHEB AND HEADING TOWARD THE QRF's POSITION.   
+
+1255D: QRF REPORTED A VEHICLE PLACING SOMETHING ON THE SIDE OF THE ROAD AT 42SWG0957008560. PRT FEY WAS DISPATCHED TO INVESTIGATE THE LOCATION.   INF PLT K WITH COY COM OF DEU QRF WAS MOVING FROM EMAM SAHEB TO POSITION OF INF PLT I &amp; J AND WERE TASKED WITH EXECUTING A VP CHECK AT THE LOCATION QRF SAW THE VEHICLE PLACE SOMETHING ON THE ROAD. 
+
+UPDATE03:
+1325D: QRF UNDER FIRE AGAIN WHILE ENROUTE TO EMAM SAHEB, THEY KILLED 3X INS AND CONTINUED TO EMAM SAHEB. AT 1334D, MEDEVAC PICKED UP 3x WIA DEU AND LANDED IN PRT KDZ AT 1426D.
+
+1354D: INF PLT K WAS ATTACKED ON THEIR WAY TO INF PLT I &amp; J, BUT THEY BROKE THROUGH AND CONTINUED ON AND ARRIVED AT PLT I &amp; J'S LOCATION.
+
+
+BDA: 3X CF (DEU) WIA (2X CAT A &amp; 1X CAT D), AT LEAST 3X INS KIA, 7X VEHICLES DAMAGED AND 1X ENEMY VEHICLE DESTROYED
+
+
+UPDATE04:
+1435D: PRO COY FEY CONNECTED WITH ANA AT 42SWG269023.  1534D, PRO COY FEY ARRIVED AS SAFE HOUSE IN PHQ NAWABAD (42SWF2238097446).  AT 1555D, QRF COY DEU WAS EXECUTING VP CHECK AT 42SWG0977308441.
+
+UPDATE05:
+1650D: QRF COY DEU REPORTED THAT THEY USED 2000 RDS 7.62MM, 200X 20MM HE, 128X BR31 40MM DURING THE FIGHT.  AT 1702D, PRO COY FEY REPORTED THAT THERE WAS 1X ADDITIONAL SOLDIER WIA (CAT B) DURING THE FIGHTING.  PRO COY ESTABLISHED A HLS AT 42SWF2234897437 AND REQUESTED MEDEVAC.  AT 1717D, THE INJURED DRIVER OF THE GL VEHICLE REPORTED THAT THE VEHICLE HAD BEEN HIT BY 2X RPGS AND BURNED OUT.
+
+UPDATE06:
+1750D: MEDEVAC LEFT KDZ.  AT 1800D, INF PLT I ARRIVED AT COMBAT OUTPOST (CP) AT 42SVG774052.  INF PLT J AND INF PLT K ARE FOLLOWING FROM EMAM SAHEB.  AT 1832D, MEDEVAC LANDED AT PRT KDZ.  1843D, BATTLE REPORT OF PRO COY FEY: 1055D, AT 42SWG134049, ATTACKED BY 3X RPGS.  1115D, AT 42SWG158046, ATTACKED BY 2X RPGS STRUCK EOD GL VEHICLE.  RECEIVE SAF WHOLE TIME BTW GRIDS.  1120D, AT 42SWG137049, DURING RECOVERY OF 2X SOLDIERS WIA 6X RPGS FIRED AT THEM.  AT 42SWG183049, STOPPED TO TREAT WIAS, DURING STOP ATTACKED BY INS.  ATTACK WAS REPULSED BY RECCE SQD WITH GMW.  AT 1145D, 5X INS KIA (CONFIRMED).  AT 1845D, ALL TOGETHER PRO COY FEY IDENTIFIED 40-60X INS BTW 42SWG125050 AND 42SWG173050.
+
+UPDATE07:
+1850D: ALL QRF FORCES REACHED COP AT 42SVG774052, AND CHECKED PERSONNEL AND VEHICLES.  MI-8 HELICOPTER TO RESUPPLY QRF COY ON 04SEP09.  2100D, PLAN WAS TO DESTROY DAMAGED VEHICLE THAT WAS LEFT BEHIND BY CAS (B1B). AT 2155D, B1B WAS ON THE TARGET, BUT DID NOT DROP A BOMB DUE TO A RESIDENTIAL COMPOUND WITHIN THE DANGER ZONE OF THE BOMB. (NO 500LBS BOMB WAS AVAILABLE)
+
+SUMMARY:
+11X INS KIA (CONFIRMED)
+4X ISAF (DEU) WIA (1X CAT B, 3X CAT C) HAVE BEEN EVACUATED TO PRT KDZ RS.
+1X GL VEHICLE (EOD) WAS HIT BY 2X RPGS AND HAD TO BE LEFT BEHIND AT THE WAY POINT D 32.
+1X BV 206S VEHICLE SUFFERED A BROKEN TRANSMISSION CAUSED BY WEAPON EFFECTS AND WAS OUT OF ORDER, BUT WAS TOWED TO PHQ NAWABAD.
+5X OTHER VEHICLES (2X DINGOS, 1X EAGLE, AND 2X FENEK) WERE LIGHTLY OR MEDIUM DAMAGED, BUT FIELD MAINTENANCE TEAM PLANNED TO REPAIR THEM ON 04SEP09 WITH THE SPARE PARTS THAT WERE GOING TO BE DELIVERED BY MI-8 HELICOPTER.
+
+CF FORCES EXPENDED THE FOLLOWING DURING THE FIGHTS:
+6,000 RDS OF 7.62MM MG-3
+200 RDS OF 20MM MICV MARDER TURRET-CANNON
+328 RDS OF 40MM GRENADE MACHINE LAUNCHER
+300 RDS OF 4.7MM MP-7
+150 RDS OF 5.56MM G-36 AND MG-4
+
+ALL FRIENDLY FORCES ESTABLISHED COMBAT OUTRIGHT POSITION AND SITUATION WAS CALM.
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.24642181,37.09013748</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (SVBIED) PRT KDZ : 5 CF WIA 1 CIV WIA 1 UE KIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">RC NORTH REPORTED A SVBIED EXPLODED AS CF PASSED BY.  NFI ATT.
+
+BDA: 3X DEU (GERMAN) MIL WIA (CAT C), 2X DEU MIL (CAT D), 1X LN TERP WIA (CAT D), 1X VEHICLE (DINGO) DAMAGED.
+
+-------------------------------
+Summary from duplicate report
+INF PLT H traveling towards Konduz on rte Taurus when a vehicle exploded as the convoy passed. 1x Dingo damaged. ANP arrived on scene as reinforcement.
+End duplicate report summary
+-----------------------------</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.94326782,36.68834686</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) ATTACK RPT  (RPG,Small Arms) INF PLT F OF INF COY (DEU) IVO  (ROUTE LOC PLUTO): 4 CF WIA 2 UE WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">ON 15SEP09, 0935L, WHILE CONDUCTING AN IED SWEEP ON A FORD ON KONDUZ RIVER 3000M WEST OF WAY POINT J 08, ON LOC PLUTO, INF PLT F OF INF COY RECEIVED SAF BY AN UNK NUMBER OF INS FROM NORTHERN DIRECTION. UAV LUNA ON SCENE. 0940L, INF PLT F REPORTED MULTIPLE RPG ROUNDS FIRED. TIC DECLARED. 0943L UAV LUNA REPORTED INS IN POSITION ALONG A TREE LINE NORTH OF INF F, SVF 89991 41320. INF COY WITHDREW UNDER FIRE. 0949L INF COY REPORTED ONE TACTICAL FOX VEHICLE (JAMMER CG-20) HIT BY ONE RPG, RESULTING IN ONE DEU ISAF WIA. INF COY REQUESTED MEDEVAC AT 0951L. 0956L, UAV LUNA REPORTED THAT ALL UNITS WERE EAST OF KONDUZ RIVER- FIRE FIGHT STILL GOING ON. JTAC REPORTS CAS (F-15) ON SCENE IN TEN MINUTES. INF COY CANCELLED AIR MEDEVAC, DUE TO WAIT TIME, AND PROCEEDED TO GROUND MEDEVAC WIA. 1012L, INF PLT F ENROUTE TO PRT KDZ, TRANSPORTING THE WIA. 1020L INF COY REPORTED APPROXIMATELY TWO GROUPS OF INS AT 42SVF 89060 41539 (IN A DITCH) AND 42SVF 88907 41595 (IN A GROUP OF TREES). GROUP COMMANDER REQUESTED AIR STRIKE ON BOTH GROUPS. INF COY WILL USE PSYOPS TO WARN POPULATION BEFORE USE OF CAS. INF PLT F ARRIVED AT PRT KDZ, WITH THREE DEU ISAF WIA. INF COY REPORTED TWO INS WIA, 42SVF 88907 41595. 1039L, MEDICAL CENTER PRT KDZ REPORTS 4 DEU ISAF WIA: 1 (CAT A) HEAD INJURY, 1 (CAT C) HEAD INJURY, 2 (CAT C) INJURED FEET. 1040L, INF COY INFORMED LOCAL POPULATION ABOUT F-15 OVERHEAD, AND INF COY REMAINED ON EASTERN RIVER BANK TO KEEP CONTACT WITH ENY. 1050L, INF COY LOST CONTACT WITH ENY INS. </literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.88821411,36.51718521</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) SAFIRE RPT  (AAA) DEU HELI : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">NAZGUL 63 FORMATION (2X DEU CH-53 HELI) WERE ON A MISSION FROM FSB MES TO PRT FAY.  WHEN FLYING THROUGH DASSHTE ARCH DISTRICT, KUNDUZ PROVINCE, THE AIRCREW OF NAZGUL 63 LEAD A/C HEARD 3-4 EXPLOSIONS.  AIRCRAFT WAS AT 30FT AGL, HEADING 090 AT 110KTS, PASSING OVER SOME COMPOUNDS.  NAZGUL 63 WINGMAN, APPROXIMATELY 500M IN THE 7-8 O'CLOCK POSITION AND REAR OBSERVER OF LEAD A/C, OBSERVED A SMALL BLACK CLOUD BEHIND LEAD BUT DIDN'T HEAR THE EXPLOSIONS.  POO COULDN'T BE IDENTIFIED, WAS POSSIBLY IN THE COMPOUND.  THERE WAS NO MUZZLE FLASH OR TRACER OBSERVED.  NO DAMAGE TO THE A/C, CREW DID NOT FEEL THREATENED. </literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.17841339,36.99391174</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,Rocket,RPG) INF PLT G IVO  (ROUTE LOC KAMINS): 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">WHILE CONDUCTING AN IED SWEEP ON LOC KAMINS, INF PLT G WAS ATTACKED WITH SMALL ARMS FIRE ROCKETS AND RPGS FROM THE EAST AND SOUTH (42SVF835596). NO CASUALTIES REPORTED.
+
+1345D: INF COY REPORTED THAT INF PLT G WAS ATTACKED FROM KHARU TI (42SVF840600) AND HILL 432 (42SVF841585), INF PLT H WAS ON WAY TO INF PLT G, AND INF PLT F WAS ON WAY TO PHQ CHAHAR DARREH. INF COY REQUESTED CAS.
+
+1356D: INF COY REPORTED THAT INF PLT G WAS STILL UNDER HEAVY FIRE AND THAT THEY WERE UNABLE TO HOLD POSITION WITHOUT CAS. 
+
+1426D: INF COY REPORTS THAT 2X ROCKET LAUNCHERS ARE LOCATED AT 42S VF 84122 58555 AND 42S VF 83569 601308. SOME OF THE INS AT THIS LOCATION WERE DEFEATED AS A MILAN ANTI-TANK WEAPON WAS USED.
+
+1434D: J2 REPORTED THAT THE ENEMY WAS TRYING TO GET REINFORCED BY 3X SQD FROM NAHR I SUFI AND ISAR KHEL.
+
+1455D: 2X F15S CONDUCTED A SHOW OF FORCE.
+
+1456D: INF COY REPORTED THAT INS WERE TAKING COVER AS RESULT OF SOF AND THAT THERE WERE SOME UXOS (RPGS THAT DID NOT DETONATE) ON HILL 431.
+ 
+1537D: SOF FINISHED.  ONLY SINGLE SHOTS ON SCENE FROM SOUTHERN DIRECTION.  LN TRYING TO PUT OUT FIRE IN A COMPOUND. INF COY REPORTED FIRE STARTED AFTER INS ATTACKED.
+
+1555D: ANP AND ANA WANTED TO REINFORCE THE DEFENSIVE POSITION FROM INF PLT G AND COY COMMAND. SITUATION CALM.
+
+1600D: DEU 3RD COY TASKED TO REINFORCE THE POSITION ON HILL 431 AFTER TALOQAN EXPRESS. TPT WILL ALSO BE DEPLOYED ON SCENE.
+
+1608D: ANA ESTABLISHED A FIRING POSITION ON HILL 431, AND STARTED TO AIM MORTAR FIRE ON HILL 432 (42SVF8412258555), DEU CDR ON SCENE EXPLAINED THAT IT WAS NOT NECESSARY.  ANA PLT HAD ORDER TO FIRE FROM ANA BRIGADE CDR.
+
+1615D: UAV REPORTED THAT 1X PERSON WAS KIA AND WAS TRANSPORTED AWAY BY 7X PAX IN A WHITE CAR.
+
+1620D: UAV LANDED AT 42SVF867562 NEAR HAJI AMANULLA VILLAGE AFTER LOSING CONNECTION.
+
+1633D: ANA MORTAR PLT FIRED 12X SHELLS ON HILL 432; NO INFORMATION ON LN OR INS CASUALTIES.
+
+1637D: US PMT ON NORTHERN POSITION OF THE UAV LANDING SITE TRIED TO RECOVER THE UAV.  DURING THEIR MOVE TO THE SITE THEY CAME UNDER FIRE FROM SAF.  NO CASUALTIES REPORTED AND FIRE FIGHT LASTED ONLY A FEW MINUTES.
+
+1655D: INS SHELLING PHQ IN CHAHAR DARREH WITH ROCKET OR MORTAR FIRE FROM NORTHERN SIDE OF CHAHAR DARREH.  NO CASUALTIES.  FURTHER TIC FOR CAS WAS DECLARED.
+
+1707D: TIC WAS CLOSED.
+
+1750D: SITUATION CALM. INF COY STILL ON POSITION WITH ANA. BEL EOD CLEARED THE DEFENSIVE POSITION AFTER FINDING THE RPG UXOS.  BDA TO BE PREPARED ASAP.
+
+1753D: QRF DEPLOYED TPT AT PHQ CHAHAR DARREH. QRF ON WAY BACK TO PRT KDZ.
+
+1830D: QRF BACK IN PRT KDZ.
+
+1847D: INF PLT F AT PHQ CHAHAR DARREH WITH EOD, TCT, TPT AND MEPT. INF PLT G AND INF PLT H WITH MEPT ON POSITION HILL 431. NO CASUALTIES. 1X LN WOMAN WOUNDED BY SHRAPNEL WAS BROUGHT TO PHQ TO BE TREATED BY MEPT.
+
+1944D: LN WOMAN TREATED BY COMBAT MEDIC FOR 2X SHRAPNEL WOUNDS. WOMAN RECEIVED ALLOWANCE TO GO TO PRT KDZ MEDICAL STATION FOR FURTHER TREATMENT ON 06OCT09.
+
+061400D: LN WOMAN RECEIVED FURTHER TREATMENT AT PRT KDZ MEDICAL STATION.
+
+071030D: INF COY TOGETHER WITH TCT AND TPT CONDUCTED F2F COMMUNICATION WITH VILLAGE ELDERS OF KHARU TI (VF838598) AND DU WANDI (VF836608) ON HILL 431, AND RECEIVED INTEL ON DAMAGED TRANSFORMER BUILDING IN KHARU TI AND VERY POSITIVE FEEDBACK TOWARDS ISAF. 
+
+080910D: INF PLT F TOGETHER WITH TCT CONDUCTED F2F COMMUNICATION IN KHARU TI, DISCOVERED AND DOCUMENTED DAMAGED TRANSFORMER BUILDING AND GAVE $500 FOR REPAIR MEASURES.
+
+EVENT CLOSED
+SOURCE PRT KDZ
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.81532288,36.68188858</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,RPG) DEU : 1 CF WIA 1 HNSF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">wHILE INVESTIGATING A COMPOUND IN VICINITY OF CHAHAR DARRAH, KONDUZ PROVINCE, DEU PRT WAS ENGAGED BY UNKNOWN AAF WITH SAF/RPG FIRE. CASUALTIES WERE MEDEVACED TO KONDUZ PRT. 1X DEU WIA. 1X ANSF WIA.
+
+***FFIR Type 1***
+S: unk INS
+A: Engagement w/ INS IVO tgt compound during compound cordon &amp; search
+L: 42 S  VF 85690  54455
+T: 110934D*nov09
+A: continue OP</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.83992767,36.63554001</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (UNK) MILITIA LEADER : 1 HNSF KIA 2 CIV WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">CHIEF OF DEU FOREIGN OFFICE PRT KDZ REPORTED AN IED STRIKE. SAID RAHMAN THE REGIONAL ARABAKI MILITIA LEADER WAS KIA IN THE ATTACK, AND TWO OF HIS BODY GUARDS WERE INJURED AND TRANSPORTED TO THE HOSPITAL IN KONDOZ. NO ISAF OR CF INVOLVED.
+
+UPDATE: 111158*D PAT TLQ CONFIRMED THERE WAS AN IED STRIKE BDA:1X LN KIA,2X LN WIA (CAT UNKNOWN.
+UPDATE: AT 111240*D EUPOL REPORTED THAT SAID RAHMAN, ARABAKI MILITIA LEADER IS THE 1X KIA.
+
+UPDATE: 1115`7*D EUPOL REPORTED THAT SAID RAHMAN WAS AIMED TARGET OF IED. TWO OF HIS BODY GUARDS ARE IN KUNDUZ HOSPITAL.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.10749054,36.71083069</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED FOUND/CLEARED RPT  (CWIED) FPG AU MES (DEU) : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">AT 0955L TOC FPG AW MES (DEU) RECEIVED INFORMATION ABOUT A UXO NEAR A VILLAGE, AND SENT A PATROL TO INVESTIGATE. PATROL ARRIVED ON SCENE AND REPORTED A 105-120MM MORTAR WITH WIRES PROTRUDING FROM THE DEVICE. EOD WAS REQUESTED AND ARRIVED ON SCENE AT 1122L AND DISCOVERED THE MORTAR APPROX 150MM WITH WIRES LEADING INTO A BUSH A FEW METERS AWAY. AT 1350L EOD SUCCESSFULLY REMOVED THE IED TO A SAFE LOCATION AND CONDUCTED A CONTROLLED DET. NO INJURIES REPORTED. </literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.33161163,36.75646973</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) SAFIRE RPT  (Small Arms) DEU : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">AFTER LANDING IN PRT KDZ THE CH-53 MEDEVAC CREW REPORTED THAT THEY HAD RECEIVED SAF IN THE AREA 10KM NW OF ALIABAD DURING THEIR FLIGHT TO MAZAR-E SHARIF. AFTER LANDING AN INVESTIGATION WAS COMPLETED AND THERE WERE 2x BULLET HOLES IN THE EXTERNAL FUEL TANKS. NO CASUALTIES. </literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.86691284,36.52495193</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) OTHER RPT   OMLT PRT FEY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">AT 0730L, PRT FEY WAS INFORMED BY THE DOCTOR WHO IS ACCOMPANYING THE JLTP (JOINT MISSION WITH OMLT PRT FEY AND ANA) OF OMLT PRT FEY, THAT THEY HAVE 5 SOLDIERS (DEU) WHO HAVE CARBON MONOXIDE POISONING. THE SOLDIERS REPORTEDLY SLEPT THE NIGHT IN A TENT, USING A GAS COOKER FOR HEATING. THE CONDITION OF THE SOLDIERS IS STABLE.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">71.56937408,36.71018219</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">FRAGO  Bagram</literal></binding>
+      <binding name="description"><literal xml:lang="en">FRAGO 68 to OPORD 05-08 is SECRET//REL TO USA, CAN, DEU, FRA, NLD, NOR, NZL, and UAE</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.26447296,34.94670105</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">FRAGO  Bagram</literal></binding>
+      <binding name="description"><literal xml:lang="en">Change 1 to FRAGO 203 to OPORD 05-08 is SECRET//REL to USA, AUS, BHR, CAN, DEU, FRA, GBR, NLD, NOR, NZL, and UAE.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.88641357,34.95383835</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">FRAGO  Bagram</literal></binding>
+      <binding name="description"><literal xml:lang="en">FRAGO 203 to OPORD 05-08 is SECRET//REL to USA, AUS, BHR, CAN, DEU, FRA, GBR, NLD, NOR, NZL, and UAE</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.88641357,34.95383835</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">FRAGO  Bagram</literal></binding>
+      <binding name="description"><literal xml:lang="en">Change 1 to FRAGO 156 to OPORD 05-08 is SECRET//REL TO USA, AUS, BHR, CAN, DEU, FRA, GBR, NLD, NOR, NZL, and UAE.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.26447296,34.94670105</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">FRAGO  Bagram</literal></binding>
+      <binding name="description"><literal xml:lang="en">FRAGO 199 to OPORD 05-08 is SECRET//REL to USA, AUS, BHR, CAN, DEU, FRA, GBR, NLD, NOR, NZL, and UAE.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.26447296,34.94670105</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">ISAF12 080800Z PRT KUNDUZ TRAFFIC ACCIDENT FOB POLE-E KUMRI BDA 1xCIV INJ</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0800Z, a GER convoy from MES to KDZ hit a local boy at 42S  VE 627 916, POL-E KUMRI, Baghlan. The boy was riding his donkey and donkey was hit by mirror of one of the armored GER vehicles (speed was 60km/h). He fell down and injured his head. The convoy stopped and informed PRT KDZ JOC and also PRT PEK JOC and asked for first aid help. QRF and MEDIC alarmed. GER convoy arrived to PRT PEK compound with injured child. HUN doctor gave first aid to the child. QRF and MEDIC transported the injuried boy to hospital in PEK. ISAF Tracking #11-200.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.58577728,36.06827164</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (RCIED) ANP/DEU PATROL / TF PHOENIX IVO  (ROUTE TAURUS): 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 271028LDEC07 FOB Konduz reported an IED attack on a joint ANP/DEU patrol IVO 42S WF 08000 64500.  At the same time an RPG attack was carried out on an ANP District HQ on RTE Taurus in Khanabad.  BDA. No injuries, no damages as of this time.  The second IED was discovered and cleared by EOD. All elements returned back to base. Event closed at 1146Z.
+
+
+IED attack on 4 vehicle convoy of joint patrol with ANP OP MUDAWEN. 1 vehicle (Dingo) was in the area of explosion. No injuries and no damages reported. 
+The IED strike hit the second patrol vehicle (APC DINGO). The patrol broke through the strike site and got into securing positions. The local population informed the patrol of a second IED close to the first strike site at 1049L (not yet confirmed). Short after that, MP reported an attack at the ANP station at KAHNABAD (42S WF 1050 5950, not yet confirmed) IRF PRT KDZ with ELMs APC (MEDEVAC), EOD/IEDD and jammer are on their way to the strike site. 
+IRF PRT KDZ with ELMs APC (MEDEVAC), EOD/IEDD and jammer arrived at the strike site and linked up with the patrol. 
+EOD/IEDD reconnoitred the strike site but the suspected second IED was not confirmed. EOD and MP special investigators finished the investigation. No further information gained by face-to-face communication. 
+All elements at the scene of IED attack began redeployment to PRT KDZ.  All elements are on the way back to the camp. IED strike caused only light damage to one DINGO. 
+BDA update: 1 Dingo minor damaged 
+Event closed at 1146Z.
+
+
+
+
+ISAF # 12-646</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.08959198,36.72616959</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) IED EXPLOSION RPT  (VOIED) DEU PATROL : 3 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">At 261930Z, RC North reported an IED strike in the Char Dara district of Kunduz Province at grid 42S VF 844 583.  A DEU patrol driving an ATF Dingo struck an IED.  3x NATO/ISAF soldiers were wounded in the strike.  Wounded were medevacd to PRT Kunduz.  IRF arrived on scene from PRT Kunduz at 2100Z, with a medical service vehicle.  Military Police are conducting investigation on site.  NFI att.
+
+Investigation results: Damage was not caused by fragments. IED-ignition by pressure plate. It is estimated that approx. 10-12 kg explosives were used for this attack.
+
+Personnel details 3x DEU WIA (1x CAT A, 1x CAT B, 1x CAT C)
+
+ISAF # 03-763</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.82542419,36.67018509</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT    : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">2nd Plt DEU MP Training Coy and ANP conducting joint checkpoint operation reported 2 x civilian cars approached checkpoint from western direction with high velocity. Approaching the first outpost, they reduced the speed but then ignored warning signs and increased the speed while passing the pre-checking. DEU MP fired 1 x warning shot in front of the first vehicle. After warning shot was fired both cars stopped. No casualties or damage reported.
+
+***Event closed at 2144D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">65.71546173,36.66278076</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) CACHE FOUND/CLEARED RPT   GER PATROL : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">GER patrol was informed by LN about some suspicious materials IVO ALI ABAD. AW MES sent EOD to the spot and they discovered : 1 x 82mm mortar shell, 1 x rocket type OG9M, 6 x handgrenades type HE F1, 16 x handgrenades type HE RGD 5 and 18 x fuzes. EOD destroyed the cache.
+
+***Event closed at 2039D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.18860626,36.75207901</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   PRT KDZ, E PLT (DEU) : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT KDZ, E Plt (DEU) whilst conducting basic security patrol and during dismounting RECCE unit they blocked the road Motorbike which was approaching did not obey warning signals to slow down. After 1 x warning shot (MG 7,62 mm) in the air motorbike stopped. No injures or damages reported.
+
+***Event closed at 2214D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.87688446,36.68016434</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   F PLT : 1 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">2008-11#1045
+
+F PLT was cleaning their weapons, when due to the negligent discharge 1x shot fired by HK G36 5,56mm resulting in 1 x ISAF NBI. At 0955D*, initial treatment was initiated at the spot and the patient was taken to KDZ Role 2. At 1056D*, AIRMEDEVAC was launched in Camp Marmal to pick patient up in KDZ.
+
+UPDATE 211223D*
+At 210100D* After treatment in MES Role 2E patient was transferred to Germany via C-160 MEDEVAC and MEDEVAC-Airbus.
+
+NFTR.
+***Event closed at 211223D*1 Non Battle Injuries, Category A german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.90151978,36.67027283</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU QRF CONVOY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">***DELAYED REPORT*
+PRT KDZ reported that S of KHOLM a group of SUVs approached the DEU QRF convoy. The SUVs came aggressively close up to five meters. An overtaking was avoided with gestures, blocking the road with the vehicles while driving and pointing small arms at the following SUVs. The SUVs didnt react and the last vehicle (Type DINGO) fired a warning shot with the fixed MG. After that, a smokepot fixed to the last vehicle of C-Plt, was enlighted. Because of the smoke the safety distance was enforced and kept. No casualties or damage reported.
+
+NFTR.
+***Event closed at 1819D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.69075012,36.66762161</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   PRT KDZ : 2 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">1 x DINGO rolled over during QRF's deployment from Camp MARMAL to PRT KDZ. QRF MEPT with Mortar Plt on the way to PRT KDZ. PRT KDZ recovering forces with crane and 7t truck and IRF on the way to the spot. Area secured with roadblock. At 310640D* B Plt, DCOM, HARPOON on the spot. Mortar Plt and MEPT arrived to PRT KDZ.
+
+UPDATE 0922D*
+At 0640D* 2x lightly injured soldier arrived at PRT KDZ ROLE2. No further treatment require. IRF with recovery forces on the spot. At 0810D* The damaged vehicle (DINGO) was loaded on the truck and all forces started their movement to PRT KDZ. At 0845D* All forces back at PRT KDZ.
+
+***Event closed at 1028D*2 Non Battle Injuries, Category D german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.89826202,36.59544373</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(Non-Combat Event) Accident rpt RC (N)</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT KDZ reported an accidental weapon release happened during weapon maintenance. 1x soldier (GER) shot himself on his upper left leg with a P8 (9mm pistol). At 041305D* the injured soldier (CAT B) was carried to PRT KDZ Hospital. NO MEDEVAC requested. At 041337D*PRT KDZ MP started the investigation.
+
+Update to casualty category.
+
+***Event closed at 071658D*1 Non Battle Injuries, Category B german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.90039825,36.67387772</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   PRT KDZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT KDZ reported, DEU QRF after finalizing the event 12-1326, reported all forces started their movement to PRT KDZ when at the spot a civilian vehicle did not hold the security distance. 1x warning shot was fired in the air with HK G36 rifle. The driver reduced the speed with non occurrences or unusual effects. No injuries or damage were reported.
+
+***Event closed at 1036D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.89826202,36.59544373</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(Enemy Action) Direct Fire rpt RC (N)</literal></binding>
+      <binding name="description"><literal xml:lang="en"></literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.80186462,36.69268417</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   GER (DEU) : 1 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">2008-12#0611
+
+PRT KDZ C-plt reported about a car accident with one APC Fuchs which rolled over. 1x soldier lightly injured. At 141822D* IRF alerted with MEPT, recovery unit and MP investigation team.
+
+UPDATE 0333D*
+At 141851D* LUNA alert-started. At 150007D* TPz who flipped over was back on wheels, no further information about status of vehicle. At 150045D* IRF (B-plt) started to hang up accident-TPz on second TPz for recovery. 
+At 150315D* all forces came back to PRT KDZ. 
+
+***Event closed at 150326D*1 Non Battle Injuries, Category D german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.84899902,36.63145065</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT   INF PLT E W/ANA : 1 UE KIA 1 UE WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">2009-01#1257
+
+INF PLT E on a joint patrol with ANA were attacked by approximately 10 x INS. ANA returned fire killing 1 and wounding 1 insurgent. 1 x ANA soldier injured and was treated by a DEU doctor.
+
+UPDATE 1112D*
+FF reported that there was no WIA ANA. Update on BDA.1 Killed None(None) Insurgent
+1 Wounded None(None) Insurgent
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.66617584,36.74827194</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   PRT MES : 1 CIV KIA 4 CIV WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">2009-01#0130 
+
+***DELAYED REPORT*
+PRT MES reported that a black SUV, manned by several LN, amongst them AFG member of parliament FAHIMA SADAT, was on RR(N) from SHEBERGAN to MAZAR-E-SHARF. The road was partially covered with snow and ice. At the respective grid S of AQCHAH, the black SUV on his own side of the road drove into 2 parking vehicles (on the right side of the road). All 3 involved vehicles were damaged, 1 LN died later on in hospital, a total of 4  LN was injured, amongst them the 1 member of parliament. While this RTA happened, a convoy of DEU Military Police Trng Coy was travelling in the other direction towards SHEBERGAN. The convoy consisted of 9 (nine) armoured vehicles. The RTA happened, when the last vehicle of the DEU convoy was passing the 2 (two) parking vehicles. The DEU convoy didn't stop due to security reasons. No FF involvment reported.
+
+UPDATE DTG.
+1 Non Battle Deaths Local Civilian
+4 Non Battle Injuries Local Civilian
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.17749023,36.83691788</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) INDIRECT FIRE RPT   DEU PROVINCIAL ADVISOR TEAM (PAT) TALOQAN : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEU Provincial Advisor Team (PAT) TALOQAN received a report from DEU state department about a presumed rocket attack with 2 x firings. Supposed area of impacts was near the civil airfield TALOQAN at grid 42S WF 467 702, where there is evidence of detonations. No FF were involved, no injuries or damages reported.
+
+UPDATE 230950D*
+J2 PRT KDZ received information that the attack did not occur at the airfield, but at the office of the DWHH and it wasnt a rocket attack. The office damaged by one RPG round. Only minor damage (windows shattered). No casualties. NFI. 
+
+***Event closed at 231025D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.52333069,36.77643585</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   (1) DEU WOLF : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">TOC AW MES FP reported that one (1) DEU WOLF driving back from GUR-E MAR to Camp MARMAL drove into a ditch. The Driver was lightly injured, the WOLF heavily damaged and recovered by FF. 
+All FF are back in Camp MARMAL. NFTR. 
+
+***Event closed at 1855D*1 Non Battle Injuries german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.23210907,36.72100449</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   OMLT DEU WITH 1ST KANDAK/2ND BDE 209 CORPS ANA  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">OMLT DEU with 1st KANDAK/2nd BDE 209 Corps ANA left PRT KDZ to march to PRT FEY. At 2057D* JOC PRT KDZ received a call from OMLT HVR about a traffic accident of forces of 1st KANDAK IVO city of KESHEM at Gr 42S WF9776, resulting 2 (two) NBD ANA soldiers and 1 (one) NBI ANA soldier, no civilian LN involved. Vehicle of 1st KANDAK fell down from the bridge, probably the bridge collapsed under vehicle (not confirmed yet). Part of the convoy of 1st KANDAK went back to PRT KDZ to carry the wounded soldier to medical service of PRT KDZ. Rest of the convoy continued to PRT FEY. No further actions due to communication problems with convoy.
+
+***Event closed at 151821D*
+
+At 142322D* OMLT HVR reported that the heavily injured ANA soldier died during transport back to PRT KDZ.  Provincial Advisory Team medics and RCC PRT KDZ were informed. The bridge at Gr 42S WF 9700 7600 was not damaged, vehicle fell off the bridge due to the bad road conditions. NFI about damaged vehicle. At 142327D* OMLT HVR reported that part of 1st KANDAK convoy arrived to PRT FEY.3 Non Battle Deaths afghan(AFG) National Military/Security Force
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.08766937,36.82489777</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) INDIRECT FIRE RPT   DEU MIXED RECCE COY  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">ISAF # 01-0716
+
+DEU Mixed Recce Coy reported to PRT MES a rocket attack or IDF (possibly mortar) on FOB HAWK at  Gr 42S TF 954 681. No damages and injuries were reported. PRT MES sent QRU (Quick Reaction Unit) to FOB HAWK as a reinforcement. 1 squad from MRC was sent out to search the area North from the FOB,1 squad from MRC was sent out to search the area South from the FOB. No casualties or damage reported ATT.
+
+UPDATE 0300D*
+At 172330D* All ANP CP's were alerted ivo FOB HAWK. At 180016D* PRT MES TF (2 QRU's with 1 Mortar squad and CCPT) was launch IOT reinforce FOB HAWK and conduct combat patrol. At 180112D*PRT MES TF (SWE) on the spot. CCPT reinforced FOB with 1 squad of TF, 1 squad of TF reinforced ANP CP CB2 at 42S TF 898 705, 1 squad of TF is patrolling to West, 1 squad of GER MRC is still patrolling to North with 2 (two) FENNEKS, 1 squad of GER MRC is patrolling to East.
+
+UPDATE 0840D*
+All PRT MES units back at CNL, DEU Mixed RECCE Coy still at FOB. NSTR.
+
+***Event closed at 0840D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.70856476,36.73659134</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU QRF  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEU QRF on the deployment from KDZ to MES was on a maintenance hold with road block at 42S VE 556 993 and reported a force escalation. FF fired 2 x short bursts of MG over a car, who approached too close ignoring all warning singals. After burst car stopped, no damage or injuries reported. At 0720D* FF continued with the mission.
+
+UPDATE 150925D*
+At 150925D*,  FF arrived Camp MARMAL.
+
+***Event closed at 150925D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.50650787,36.13739014</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU CSS COY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">***DELAYED REPORT***
+DEU CSS COY fired one warning shot in the air with MP7, IVO V3(report line), because a white Toyota Corolla came near the vehicle TPZ FUCHS. After the warning shot, white Toyota Corolla drive on the right side of the road. No casualties or damage reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.23432159,34.54398727</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   PMT OF DEU MP TRNG COY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">ISAF 02-0202
+
+PMT of DEU MP Trng Coy was on a vehicle patrol, when because of bad weather and road conditions 1 x DINGO slipped off the road and stucked. Recovery forces were sent to the spot from Log Support Battalion, but because of the mentioned weather and road conditions they could not help. The vehicle was finally rescued with the support of local nationals. At 052245D*, after finishing patrol, FF arrived back in Camp MARMAL. No casualties or damage reported.
+
+***Event closed at 0454D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.91371155,36.66256332</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(Non-Combat Event) Accident rpt RC (N)</literal></binding>
+      <binding name="description"><literal xml:lang="en">***PREVIOUS EVENT 03-0780 HAS BEEN DELETED DUE TO NOT BEING A EVENT NEW EVENT DETAILS BELOW***
+JOC PRT FEY received the information that 1 x vehicle from PRT FEY MOLT II, conducting a campsite RECCE in connection of OP GHAZNA, had a RTA at grid 42S XG 3400 1500. 1 x ISAF (DEU) soldier was seriously injured, 1 x ISAF (DEU) soldier was lightly injured (CAT UNK). At 2340D* PRT FEY TU was alerted and left the camp headed to the incident location.  0037D* PRT FEY TU reported that the  seriously injured DEU ISAF soldier died after approx. 55 minutes of reanimation. The lightly injured DEU ISAF soldier is on the way back to PRT CAMP for further treatment. Investigation is ongoing.
+
+UPDATE 150445D*
+PRT FEY MP reported in the first impression that accident vehicle did probably hit an obstacle on the road and turned over. The dead DEU ISAF soldier was back-seater and tossed during the incident out, afterwards the vehicle tumbled down on him. 150600D* PRT FEY MP investigation team was back on scene for continuing the investigation.
+
+UPDATE 152230D*
+JOC PRT FEY was informed at 142316D* by MOLT 2 of PRT FEY about a car accident of the first out of 3x cars (WOLF MSS) during the execution of the camp side RECCE IAW OP GHAZNA. No other cars were involved. 1x soldier DOW. The other 2x soldiers were lightly injured (CAT D) and have been treated on RCC. Chief MP reported in first impression report that he thought the car probably hit an obstacle on a street and over turned. The back seat passenger was tossed out of the vehicle and the car rolled over on him. The driver and co-driver then freed thenmselves and supported with first aid measures. Investigation is still ongoing.1 Non Battle Deaths german(DEU) NATO/ISAF
+2 Non Battle Injuries german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.50937653,37.17182159</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   OMLT (GER) 1ST KDK 4TH COY  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">OMLT (GER) 1st KDK 4th COY reported that that an APC DINGO slipped off the road while the road broke down under the weight of the vehicle. ANA mentored by OMLT recovered the DINGO on their own. Recovery was finished at 151300D*. The vehicle was slightly damaged. FF repaired the vehicle on scene and continued their way to Safe Haven ZIBAK. No casualties reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">71.57681274,36.70601273</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   PRT FEY : 1 CF WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT FEY reported that JOC was informed by Commander HQ COY about a negligent discharge in CAMP FEYZABAD. A DEU soldier of the communication centre pieced his MP7 after cleaning. During the function check he had an accidental discharge in the ground. The soldier beside was lightly injured (crack trauma, likely CAT D) and was medical treated at the HC. No other persons were injured.
+
+***Event closed at 1855D*.1 Non Battle Injuries, Category D german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.52638245,37.12112808</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(Enemy Action) Direct Fire rpt RC (N)</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT KDZ reported that INF PLT F, while on a NFO, was ambush with RPG and SAF. FF broke through. At 1900D* FF were ambushed for the 2nd time at 42S VF 8373 6806 RPG, SAF. 1 x ISAF (GER) seriously injured (CAT UNK).
+
+UPDATE 2010D*
+FF reported 1 x ISAF (DEU) KIA, 3 x ISAF (DEU) slightly injured and 2 x vehicles destroyed by RPG. The information have to be confirmed.
+
+UPDATE 2140D*
+FF reported 1 x ISAF (DEU) KIA, 2 x ISAF (DEU) WIA CAT C, 3 x ISAF (DEU) WIA CAT D. The casualties were evacuated at PRT KDZ MTF. FF also reported 1 x FOX and 1 x DINGO heavily damaged. The DINGO will be destroyed on the spot because not recoverable.
+
+UPDATE 301010D*
+All forces back to PRT KDZ, damaged DINGO vehicle was towed to PRT CAMP. Investigations ongoing. NFI. 
+
+***Event closed at 301010D*APR20091 Killed in Action german(DEU) NATO/ISAF
+2 Wounded in Action, Category C german(DEU) NATO/ISAF
+3 Wounded in Action, Category D german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.77136993,36.78367996</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU COY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEU Coy reported that at 111600LTAPR09, 3 warning shots to the air were performed against a blue Toyota Corolla which came too closed to an escort of BULGARIAN and GERMAN troops. Before shooting, a Bulgarian soldier had performed signs IOT stop this car but the came closer, so the soldier had to shoot. All the troops are back in CAMP WAREHOUSE now. There is no damage and no casualty.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.25066376,34.54395676</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU QRF : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEU QRF reported that during maintenance halt a civilian person ignored the roadblock. After using a warning shot the person stopped and left the area. No casualties or damage reported.
+
+***Event closed at 2218D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.74563599,36.16901398</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) PRT MEY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT MEY Reported about a TIC involving DEU OMLT. They heard shooting from the estimated enemy pos: 41 SNV 602 588. OMLT was requesting support from NOR task unit. Fire fight was ongoing. Task unit will use planes to look at the area. No casualties or damage reported.
+
+***Event closed at 241950D*MAY2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">63.68386841,35.77573395</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   PRT FEY  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT FEY reported that DEU recce patrol fired warning shot in TANJAR 42S WF 965 824. A motorcycle tried to break into the column comprising of two DEU RECCE vehicles FENNEK. Last car of the column made a warning shoot into the air. The motorcycle stopped and drove away. The motorcycle was driven by one man. NFI.
+
+***Event closed at 271527D*MAY2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">70.08287811,36.88263321</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   MP TRAIN COY MP : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">MP TRAIN Coy MP reported that while enroute to a patrol towards MAZAR-E-SHARIF, due to bad road condition 1 x DINGO vehicle slipped off the road and turned on its side. Nobody was injured. The other vehicles of the convoy secured the scene. At 1408D* DEU Log Sup Bn recovery force deployed. 
+
+UPDATE 1555D* The Log Bat recovered the vehicle. It is operational, only the two mirrors on the left side are broken. FF RTB. No casualties reported.
+
+***Event closed at 2043D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.96909332,36.75123596</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   ENGCOY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">EngCoy reported that a DEU soldier (member of the EngCoy) was wounded (CAT C), at a shooting range No. 2. Entrance and exit wound in his left hand. At 1405D* Convoy of EngCoy with the wounded soldier was back to CM. The wounded DEU soldier was handed over to field hospital. At 1428D* MP and Range Control were on the accident scene, IOT started investigation. At 1450D* the wounded DEU soldier was on under go surgery in Field Hospital. NFI, the investigation was ongoing1 Non Battle Injuries, Category C german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.22115326,36.94717789</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(Enemy Action) Direct Fire rpt RC (N)</literal></binding>
+      <binding name="description"><literal xml:lang="en">EW SQD reported that while on the way back to PRT KDZ from a recce task, FF were attacked with RPG and SAF. FF drove trough the enemy fire and moved to PHQ CHAHAR DARRAH (VF 821 608) where the TASK UNIT A QRF DEU has an COMBAT OUTPOST. At 2045D* EW SQD (3 x DINGO) started from PHQ CHAHAR DARRAH to PRT KDZ under observation of LUNA (UAV) and arrived in PRT KDZ at 2115D*. No casualties or damage reported.
+
+UPDATE 020930D*
+INF PLT E and investigation team were in incident location yesterday tried to found some additional info. They did not found any new evidence. Briefed facts as follow: EW force was attacked by UNK no of INS. INS used approx 2-4 RPG and SAF.EW responded with approx 180 rounds from MG located on DINGO vehicle. Effects on INS UNK because of dark. Units broke a contact without casualties. One (1) DINGO slightly damaged. NO INJ, NO CIVCAS, 
+NFI</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.83440399,36.65667343</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   RC(N) : 2 CF WIA 1 CIV WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">RC(N) reported a road traffic accident involving ISAF vehicle. They reported one (1) heavy wounded LN and two (2) lightly wounded DEU soldiers at spot of road accident. MRT (Mobile Recovery Team), mobile med. unit, EOD, 2nd MRT, 2nd mobile med unit and MP had been alerted and sent out to the spot. The LN and the two DEU wounded soldiers were handed over to hospital in CAMP MARMAL (Mazar-e Sharif). The ISAF vehicle, a FOX was damaged so heavily, it had to be recovered.
+
+UPDATE 130820D*
+The ISAF vehicle, which was involved in the road traffic accident was a German Tank called FOX. The two lightly wounded DEU soldiers are members of the FP GP AW MeS (EOD-Team). The Fox is already recovered. NFI.2 Non Battle Injuries german(DEU) NATO/ISAF
+1 Wounded None(None) Local Civilian
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.21399689,36.72001266</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (RPG,Small Arms) PRT KDZ  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">PRT KDZ reported about an INS attack with 5x RPG and SAF from approximately 10-12 x dismounted INS against RECCE SQD DEU QRF at 42SVF 819 674. RECCE SQD DEU QRF responded with 3x MG bursts. RECCE SQD DEU QRF was executing reconnaissance mission in the area. They were able to withdraw into western direction without casualties and damages. INS withdrew into eastern direction. At 1408D* TASK UNIT C DEU QRF and TACP started movement from COMBAT OUTPOST PHQ CHARA DARA to the spot for reinforcement. At 1446D* TASK UNIT C DEU QRF got in contact with RECCE SQD DEU QRF at 42SVF805677. At 1502D* CAS by F  15 on station. At 1600D* Intent of involved forces was to return to COMBAT OUTPOST PHQ CHARA DARA. NFI ATT
+
+UPDATE 011505D*JUN09
+At 311700D* TASK UNIT C DEU QRF and RECCE SQD DEU QRF arrived at CAMP PRT KDZ after being on scene for reconnaissance without additional knowledge. These forces have not found any equipment, circumstantial evidences or confirmation for injured INS. NFI.
+
+UPDATE 021730D* Investigations finished. NFTR.
+
+***Event closed at 021737D*JUN</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.80955505,36.75129318</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT    : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">***DELAYED REPORT***
+FP GP AW MES reported that  1 (one) x DINGO vehicle flipped over on its left side. HRV RECCE Patrol of FP GP AW MES in the AOO (BLUEBOX) got the task to link up with the GER patrol, IOT secure the area and to support them during the recovery. TOC FP GP AW MeS requested means of recovery from the logistic support battalion. 
+At 152240D* Squad Leader GER Patrol reported that the HRV Patrol linked up the DINGO which was recovered successfully. DINGO was lightly damaged but driveable. TOC FP GP AW MES cancelled the task for the means of recovery by the logistic support battalion.At 152330D*GER and HRV patrols came back to CAMP MARMAL. The investigation about reasons of RTA is ongoing. 
+
+UPDATE 230810D*
+TOC FP GP AW MeS reported about results of investigation: The accident was caused by the heavy terrain, in connection with the lack of experience of the driver to drive in heavy terrain with DINGO vehicle. No casualties reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.26865387,36.65934753</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   UNIT B DEU QRF  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">TASK UNIT B DEU QRF reported about a force escalation against a white TOYOTA COROLLA-vehicle. This vehicle moved around at high speed between the convoy of TASK UNIT B DEU QRF during return to CAMP PRT KDZ from COMBAT OUTPOST within OPS BOX E. Own DINGO-vehicle started force escalation with one (1) shot signal pistol -no reaction. After second force escalation with one MG burst, TOYOTA-vehicle withdrew into northern direction. 
+220605D*TASK UNIT B DEU QRF at CAMP PRT KDZ.  No casualties or damage reported.
+
+***Event closed at 1152D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.86115265,36.71530533</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (RPG,Small Arms) RECCE SQD DEU QRF : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">RECCE SQD DEU QRF (3 x tactical FENNEK vehicles) reported that while FF was executing a reconnaissance mission, FF were attacked by 10-12 x INS with 5 x RPG and SAF. FF returned fire with automatic grenade launcher, MG bursts from mounted MG and submachine guns without noticing effect on target. FF withdrew into western direction without casualties and damages. INS withdrew into eastern direction. At 1626D* TASK UNIT B DEU QRF deployed in support. At 1650D*, TOC QRF reported that TASK UNIT B DEU QRF was attacked at 42S VF 770 673. FF returned fire and probably killed INS (amount UNK) without own casualties or damages.
+
+UPDATE 1735D* 
+There was SAF against TASK UNIT B DEU QRF at VF 770 673 again without own casualties and damages. INS probably killed (amount UNK). At 1752D* TASK UNIT C DEU QRF started movement from COMBAT OUTPOST PHQ CHAHAR DARA to the spot for additional reinforcement. At 1811D* INF PLT F (IRF of PRT KDZ) arrived at PHQ CHAHAR DARA. INS (amount UNK) probably withdrew. No further contact. 
+
+UPDATE 1840D* 
+All forces started RTB under observation of LUNA (UAV). At 1854D* another TIC occurred at VF 803 665. TASK UNIT B DEU QRF was attacked by SAF and RPG. One vehicle got hit by RPG (type of vehicle UNK). No casualties or injuries reported. All forces broke through and continued road march. At 2000D* ANA PLT built roadblock at VF 836 616 to hold the road to PHQ CHAHAR DARA open to returning forces.
+
+UPDATE14JUN09 PRT KDZ investigation reported that FF were attacked by approx. 30 x INS with SAF and 15 RPG. FF reported that they hit 15 x INS but they have not got confirmation about INS casualties.
+
+***Event closed at 142214D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.70643616,36.76640701</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   TASK UNIT A QRF DEU  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">TASK UNIT A QRF DEU reported that while on a recce mission, A green Toyota came too close to the roadblock and did not react to the stop signs. FF fired 1 x G36 shot in the air. The car stopped and was controlled by FF. Nothing suspect was found. The car drove away. FF continued with its task. No casualties or damage reported.
+
+***Event closed at 2232D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.74584961,36.70700073</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   TASK UNIT DEU QRF : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">TASK UNIT DEU QRF reported that while on a temporary checkpoint at LOC LITSCHI, 1 x motorcycle approached the CP at high speed (approximately 40 mph). The motorcyclist did not react to the signs given from TCP personnel. Then FF started force escalation firing 1 x MG-burst. Motorcycle withdrew immediately northwards. FF continued the task. No casualties or damage reported.
+
+***Event closed at 1925D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.80181885,36.70981216</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT  (Small Arms) GERMAN S2 OFFICER : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">German S2 Officer reported that a white Jeep approached to close at the rear of a GER convoy travelling along H7. The driver did not react to the standard procedures of dissuasion. A member of the last vehicle fired a MG burst in the air. The car stopped immediately. No casualties or damage reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.20159912,34.53322601</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DUE ELEMENT  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DUE ELEMENT reported that while conducting a convoy at 42SWD 115 188 (between H1.2 and G2 /PD3) a black TOYOTA approached at high speed the rear of a GER convoy. After the standard procedures of dissuasion, the car didn't decrease its speed. A member of the last patrol vehicle fired a MG burst in the air. The car braked hard and lost contact to the GER convoy. No casualties or damage reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.12528229,34.51078415</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(Friendly Action) Escalation of Force rpt RC (N)</literal></binding>
+      <binding name="description"><literal xml:lang="en">TASK UNIT A DEU QRF reported that while returning to COMBAT OUTPOST POLICE HQ CHAHAR DARA, 1 x motorcycle started travelling at relatively high speed (approximately 45 mph) among the vehicles of the convoy. FF 1 x flare  but the rider ignored it; after that, FF fired 1 x warning shot (G36-rifle). The motorcycle withdrew travelling northwards. No casualties or damage reported.
+
+***Event closed at 1821D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.77944946,36.70346451</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT  (Small Arms)  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEU COY reported that a FF convoy performed a warning shot. On 131245D*JUN09 in 42SWD 245 225 a red mini van approached at high speed the rear of a FF convoy. After the standard procedures of dissuasion, the car didn't decrease its speed. A member of the last patrol fired a warning shot in the air. The car slowed down and hold the right distance. OTHER</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.26701355,34.54392242</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   CAMP WAREHOUSE : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">SITE COMMANDER reported that a GER c/s who was about to get into CAMP WAREHOUSE fired a warning shot in the air in. A civilian car (a white Jeep plate number UNK) was coming close too fast to the convoy. After the GER c/s showed the weapon the driver did not react. After the warning shot, the car stepped back to the appropriate distance. No casualties or damage reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.30516052,34.54383087</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   ANP W GER PMT : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">***DELAYED REPORT***
+While PMT of GER MP Training Coy ANP was on patrol in DEHDADI district, next to the ANP CP IMAN BUKRI, they found 1 x mortar grenade. The PMT marked the UXO, informed PRT MES TOC and continued vehicle patrol. PRT MES sent EOD and MMT towards site . At 201640D* they arrived on the site and destroyed UXO. At 201915D* PRT MES units RTB.
+
+***Event closed at 220228D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">66.92594147,36.64292145</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(Enemy Action) Direct Fire rpt RC (N)</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEA (Drug Enforcement Agency) and ANA reported 2 x detonations at the OLD ANA CAMP (42S VF 917 573) and the NEW ANA CAMP (42S VF 932 552). 2 x RPGs were fired to the ANA camps from UNK direction. 
+
+UPDATE 220815D* 
+Investigation by DEU OMLT and EOD PRT KDZ finished. No impacts have been detected inside the camp and it is not 100% clear whether the detonations were caused by RPG or rockets (as reported by DynCorp and US PMT). No casualties or damage reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.90712738,36.66126251</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   PRT KDZ : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">***DELAYED REPORT***
+PRT KDZ reported that RECCE SQUAD A1 executed reconnaissance and introduction of successors at the area of EASTPLATAEU and found one (1) UXO at 42 SVF 96838 45575 beside LOC ARCHER.Type: 122mm tank grenade in bad condition. 100800D*EOD cell was informed about this UXO, intent to disposal of UXO within the next weeks. 
+NFI.
+
+UPDATE 150610D*
+At 141600D* DEU QRF forces moved to place of UXO after finishing IED-sweep along LOC PLUTO. Integrated EOD SQD picked up UXO and detected an empty cartridge case. All forces back in camp PRT KDZ. 
+
+CHANGE OF CATEGORY
+Discovery of UXO---&gt;Discovery Other
+
+***Event closed at 150611D*JUL2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.96466827,36.55559158</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(EXPLOSIVE HAZARD) UNEXPLODED ORDNANCE RPT   EOD-SQUAD  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">During a operation DEU QRF to pick up an old Rusian tank, our EOD-Squad was tasked to check the area around that tank. There they found the UXO(Warhead RPG 7). Location is marked and we have taken some photos. We reported this to EOD-C AW MeS. No casualties or damage reported.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">64.78656006,35.91841507</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU LOG SPT BN  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">Transport PLT of DEU Log Spt Bn reported that while transporting soldiers from CAMP MARMAL to CAMP MIKE SPANN, FF had an EOF with a sand camouflaged pick up without license plate (similar to an ANA vehicle) with 2 persons inside. The vehicle increased speed, flashed light signals and reduced its distance with the convoy below 50 m. The gunner gave, additionally to the used signs on the vehicle, hand signs, but the pick up kept its speed. He immediately reported to convoy commander, who ordered to repeat the hand signs and to fire a warning shot out of the machine gun (MG3 - 7,62 mm) if necessary. After the rear gunner repeated the hand signs effortlessly he gave a warning shot (burst). The car immediately increased the distance about to 150 - 200 m. Then, after a few seconds, the car increased the speed again and came close to the convoy (50 m and less), the gunner fired a second warning shot (burst). Then the pick up left the scene in northern direction. No casualties were reported. During this EOF 9 rounds of ammunition were fired. NFTR.
+
+***Event closed at 1436D*</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.01221466,36.66426849</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) COP ESKANDER : 1 CIV WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">FF at COP ESKANDER reported that ANP and PRT units have been attacked with SAF IVO MENG DERAKHT at 41S PA 440 020 by approx. 30 x INS (not confirmed).FF are pulled back to ATHE KHAN KHWAJEH at 41S PA 520 080. PRT MOT P (LVA) confirmed that they were in contact with UNK number of INS. COP ESKANDER reported that PRT units were divided in two separate locations, moreover INS probably have stolen 1 x GREEN RANGER in the area. COP ESKANDER reported that INS have pulled out of the area towards WEST to TURKMENISTAN border.  MOT P (LVA) reported that they have 1 x dehydrated LVA soldier. MEDEVAC requested
+
+UPDATE 1553D*
+Patient (LVA) was transported to PRT MEY R1+ for further treatment. MEDEVAC request from PRT MEY JTAC. There is 1 x AFG civilian wounded (gunshot in the head and chest) due to the warning shot, fired by FF. Patient (AFG Civilian) was transported to PRT MEY R1+ for further treatment.
+
+UPDATE 1607D*
+ISAF MEDOPs reported the 1 x AC wounded has DOW and the 1 x ISAF (LVA) NBI will be transfered MM(N)07-25C to MES.
+
+UPDATE 1748D*
+At 251359D*, B-412 AIR MEDEVAC landed in PRT MEY, the patient (LVA) was transported to PRT MEY R1+ for further treatment. At 251429D*, MEDEVAC requested from PRT MEY JTAC for 1x AC wounded (gunshot in the head and chest) due to the warning shot, fired by FF. At 251453D*, MEDEVAC launched, B-214 got airborne. At 251458D*, PRT MEY QRT linked up with PRT MEY MOT P at GRID 41SPA4980000300. At 251507D*, B-412 AIR MEDEVAC landed in PRT MEY, the patient (AFG Civilian) was transported to PRT MEY R1+ for further treatment. The dehydrated patient (LVA) needs further mecical examination in CM R3 DEU Field Hospital. At 251543D* PRT MEY MOT P reported that after the TIC 1x ANP vehicle and 2x ANP are missing. At 251601D*, FF are still searching he area for the 2 x ANP MIA. At 251607D*, The seriously wounded AC DOW in PRT MEY R1+.
+
+UPDATE 1729D*
+PECC reported to PRT MEY that their MEDEVAC units in NONOP at the moment, and asked PRT MEY to hold the patient in MESU over night. At 251907D*, PRT MEY Task Unit together with PRT CSS left camp.
+
+UPDATE 1042D*
+PRT MEY doctor team decision was to MEDEVAC the LVA soldier to CM Role3 ASAP. Medical status report was sent PECC. B-412s were airborne. The helicopters will rested over night CM. PRT MEY CSS and TASK UNIT linked up with own forces in GRID 41 SPA 498 033 - ANP CP in THAKTA BAZAR. Due to NAD MEDEVAC, all PRT units rested over night in ANP CP in THAKTA BAZAR. NOR OMLT together with ANA has linked up with PRT MEY MOT K and JTAC. 260857D* PRT MEY CSS unit together with PRT MEY MOT P and QRT was on the way back to PRT MEY camp.
+
+UPDATE 252026D*
+PRT MEY doctor team decision was to MEDEVAC the LVA soldier to CM Role3 ASAP. Medical status report was sent PECC. At 252045D*, Green light for use of NAD MEDEVAC. At 252140D*, B-412s were airborne. The helicopters will SON CM. At 252158D*, PRT MEY CSS and TASK UNIT linked up with own forces in GRID 41 SPA 498 033 - ANP CP in THAKTA BAZAR. At 252200D*, Due to NAD MEDEVAC, all PRT units SON in ANP CP in THAKTA BAZAR. At  260545D*, NOR OMLT together with ANA has linked up with PRT MEY MOT K and JTAC. At 260857D*, PRT MEY CSS unit together with PRT MEY MOT P and QRT was on the way back to PRT MEY camp. At 261100D*, PRT MEY MOT K, JTAC and TU, together with ANSF have been searching one village IVO MENG DERAKHT at GRID 41SPV434981. At 261107D* PRT MEY CSS units with MOT P and QRT were back in PRT MEY camp. At 261100D* PRT MEY MOT K, JTAC and TUs together with ANSF searched one village IVO MENG DERAKHT in GRID 41SPV434981. At 261107D*, PRT units back in a camp.1 Non Battle Injuries latvian(LVA) NATO/ISAF
+1 Died of Wounds afghan(AFG) Local Civilian
+2 Missing in Action afghan(AFG) ANP
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">64.60074615,36.15205002</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms,RPG) RC(N) : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">RC(N) reported that during the march from PRT KDZ to CM, march group RED (DEU QRF A PLT with parts of Mixed Recce Coy, EW Coy and MEPT) was attacked with SAF and RPG by UNK number of INS at Gr 42SVF84101770. The convoy has pushed through and continued the march. CAS has been requested. No casualties were reported, but 1x (one) APC FOX has a light damage. At 090020D* March group RED reached PRT PEK and will stay there over night. CAS was cancelled.
+
+***Event closed at 091742D*.</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.82289886,36.30416489</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   DEU QRF : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">During the march from CM to PRT KDZ the DEU QRF convoy had to stop, due to a technical problem. After establishing a road block, while establishing the trigger line, suddenly 1x (one) truck, overhauled the other vehicles and came towards the ISAF convoy with high speed. The driver did not react on hand signals, on the show of the weapon and demonstrate of the intent to use it. One soldier fired 1x (one) burst with MG-3 as a warning shot and the truck upwards stopped immediately. The warning shot (burst) was firing into the air. The distance between the truck and ISAF-troops was approximately 70m. After the incident DEU QRF continued its march towards PRT KDZ without any problem. No injuries or damage were reported. NFI
+
+***Event closed at 080529D*JUL2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.94516754,36.39069366</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) QRF COY DEU : 1 CF WIA 1 UE WIA </literal></binding>
+      <binding name="description"><literal xml:lang="en">QRF COY DEU reported fire fight between INF PLT K and unknown number of INS IVO PS ZAR KHARID-I-SUFLA on LOC BANANA. 1155D* Contact to enemy lost. Enemy withdraw in northern direction. INF PLT K was recce in the area. 1158D* LUNA (UAV) reported about possible INS in a line of trees north of position of QRF COY DEU. 1210D* One vehicle (DINGO) of INF PLT K got stuck. INF PLT K starts recovered this vehicle. 1227D* INF PLT K again was in TIC. One soldier (DEU) wounded in shoulder. MEPT is at scene. 
+
+Update 01: 
+IRF with 4x MARDER left PRT. TACP reported that 2 x  F16 as CAS are on scene in 15min.  LUNA UAV left scene due to CAS. 2 x F16 on scene. ANP arrived on scene and connected with QRF COY DEU. IRF has connected with QRF COY DEU. DINGO of INF PLT K has been recovered. ANP followed INS into northern direction. ANP reported one INS wounded. DEU soldier was WIA CAT B in forearm and not in shoulder.
+
+UPDATE 2
+INF PLT K returned in PRT KDZ. Injured soldier was brought to medical centre PRT KDZ. QRF COY DEU and IRF moved back to PRT. At 1445D*All forces returned in PRT.
+
+In debriefing COY COM QRF DEU reported that they were attacked with SAF and one RPG by up seven INS. 3  5 INS were engaged by INF PLT K, effect of fire not clear. At least one INS injured due to trail of blood was reported by INF PLT K.1 Wounded in Action, Category B german(DEU) NATO/ISAF
+1 Wounded None(None) Insurgent
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.84316254,36.75134277</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   DEU QRF 3RD COY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">DEU QRF 3rd Coy conducted an area reconnaissance IVO SHEBERGHAN approx. 35 km NW of SHEBERGHAN 1 ATF DINGO crashed. The reason of the accident was still unknown. By this accident 6 soldiers were injured (CAT UNK). 031430D* DEU QRF requested RTF including MEPT, field crane and additional transportation capability to transport injured soldiers and established a road block on the place of accident.
+
+UPDATE 1700D*
+DEU QRF established road block in order to secure the place of RTA (Event NR 08-0238). At 031515D* one civilian vehicle approached to the road block with high speed. The soldiers at the road block gave hand signals to stop the car. After the driver did not react on hand signals the soldiers fired warning shots with flare pistol and G36 approx. from 50m. The vehicle stopped immediately. At 031520D* another civilian vehicle came towards the road block. Soldiers used hand signals again. After the driver did not react on hand signals the soldiers fired 3 warnings shots with G36 into the air approx. from 75m. After that the car stopped. No casualties or damages reported.
+
+
+UPDATE 040215D* 
+At 031550D* RTF left CM, arrived at the place of accident at 031944D*, started to recover ATF DINGO and finished recovery at 032100D*. At 032105D* RTF with the lightly injured soldiers went to MES and arrived in CM at 040030D*. At 032115D* March Group RED redeployed to the OUTPOST S of SHEBERGHAN (41 S QA 4260 5120) and were in position at 032247D*. 
+
+UPDATE 0800D*
+After the medical examination in MES R3 the doctors changed status of 1 x NBI Cat B to 1 x NBI Cat C so the total number of injured soldiers is 6 x Cat C. NFI6 Non Battle Injuries, Category C german(DEU) NATO/ISAF
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">65.50719452,36.86291504</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) ATTACK RPT  (Mortar,RPG,Small Arms) BEL OMLT  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">BEL OMLT reported that they are in a fire fight with INS. BEL OMLT is at position WF 092 611 and they were attacked from direction WF 094 619. They were attacked with RPG, SAF and mortar. At 0030D* BEL OMLT requested illumination with mortar 120mm by QRF COY DEU, which is in the PHQ KHANABAD (WF 102 594). At 0033D* QRF COY shoot 3 rounds of illumination with mortar 120mm. No casualties or damage reported. NFI</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.10186768,36.69551086</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) INDIRECT FIRE RPT   PRO COY FEY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">At 0805D* PRO COY FEY which is located in PHW NAWABAD was attacked with four (4) rounds of mortar fire. The impacts of the mortar were at 42 SWF 221 962. ANA, which is also located in PHQ NAWABAD fired with two (2) rounds mortar back, but the possible fire position of INS mortar was out of range of ANA mortar. 
+One civilian was injured by mortar fire of INS and got medical attendance in PHQ NAWABAD by MEPT DEU. NFTR.
+
+***Event closed by RC(N) at 051338D*OCT20091 Wounded afghan(AFG) Local Civilian
+</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.24842072,37.01170731</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   BSG OPS  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">***DELAYED REPORT***
+At 112212D*OCT09, BSG OPS reported that at 112110D*OCT09, while performing a mounted patrolling activity in PD-10, BSG C/S 11A had made 2 x warning shots at the same vehicle, at grids 42S WD 15490 21706. As the patrol was pulling up along the right side of the road and slowing to a halt, a white 4 x 4 approached from the rear. The two top cover soldiers of the rear vehicle issued both visual and verbal commands, by means of shouting and hand signals. The vehicle stopped approximately 40 m to the rear of the patrol rear vehicle. At that time, members of the patrol were out of the patrol vehicles conducting 5-25 checks. 1 x white TOYOTA COROLLA HATCHBACK rounded a corner swerved around the stationary vehicle and approached the rear of the patrol at speed. When the vehicle was at a distance of about 80 m, one of the two top cover soldiers of the rear vehicle issued both verbal and visual commands for the vehicle to stop by means of shouting and flashing a torch. He also pointed a green laser beam at the vehicle. The second top cover soldier cocked his LMG as further visual force escalation. The car did not reduce its speed and was coming up quickly. The dismounted members of the patrol were directly in its path. When the car was at a distance of 20 to 25 m, fearing for his life and the lives of his comrades, the first soldier fired 1 x 5.56 mm DEU round into the air and the second fired 3 x 5.56 mm LNK RG06 rounds into the ground just in front of the vehicle, which was at that time approximately 10 to 15 m to the rear of the ISAF vehicle. The car failed to stop and another 1 x 5.56 mm DEU round was fired again into the air by the first soldier. Eventually, the vehicle stopped approximately 5 to 10 m to the rear of the ISAF vehicle. An ANP patrol, which was approaching the patrol from the front, saw this happen and approached the suspect vehicle. The vehicle then rapidly reversed up the road out of view. The interpreter got out to speak to the ANP with the patrol commander.
+
+No casualty, no damage.
+
+***Event closed at 121031D*OCT2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.16880798,34.53693771</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(FRIENDLY ACTION) ESCALATION OF FORCE RPT   BSG OPS : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">BSG OPS reported that, while performing a mounted patrolling activity in PD-10, BSG C/S 11A had made a warning shot, at grids 15490 21706. 1 x blue NISSAN PATROL pickup rounded a corner and approached the front of the patrol at speed. When the vehicle was at a distance of about 70 m, one of the patrol soldiers issued both verbal and visual commands for the vehicle to stop by means of shouting and flashing a torch. He also pointed a green laser beam at the vehicle. The car did not reduce its speed and was coming up quickly. When the car was at a distance of 20 to 30 m, fearing for his life and the lives of his comrades, he fired 1 x 5.56 mm DEU round warning shot into the air. The car immediately stopped and after 30 s, it turned around and drove away towards North West. 
+
+No casualty, no damage.
+
+***Event closed by RC(C) at 121033D*OCT2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">69.16880798,34.53693771</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(ENEMY ACTION) DIRECT FIRE RPT  (Small Arms) INF COY : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">030831D* INF Coy reported, that ANP was in contact with 2  4 INS west of the destroyed bridge over KONDOZ river IVO J92. INF Coy requested reconnaissance via UAV KZO. 030855D* UAV KZO reconnoitred ANP not in contact with INS any more. No damage and casualties.
+The INF Coy (GER) of PRT KDZ reported this, but was not in a TIC. The were just relaying this information to the PRT KDZ. ANA / ANP were providing outer security cordon for the installation of the new bridge over KONDOZ river IVO J92, while INF Coy was conducting IED sweep along LOC KAMINS
+NFI
+
+This Incident closed by RC (N) at: 040139D*NOV2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">68.77838135,36.68452835</literal></binding>
+    </result>
+    <result>
+      <binding name="title"><literal xml:lang="en">(NON-COMBAT EVENT) ACCIDENT RPT   DEU LOGSPTBN  : 0 INJ/DAM</literal></binding>
+      <binding name="description"><literal xml:lang="en">***DELAYED REPORT***
+DEU LogSptBn conducted additional driver training with using night vision goggles in the Blue Box. At 132330D* 1 (one) x 7 ton truck fell on the side for UNK reasons. RC N RTF was activated at 140030D* and recovered the vehicle within three hours. No injuries. Minor damage to the truck.  All personnel returned to CM at 140330D*.
+NFI ATT
+
+This Incident closed by RC N at: 140823D*DEC2009</literal></binding>
+      <binding name="coordinates"><literal xml:lang="en">67.25812531,36.62998962</literal></binding>
+    </result>
+  </results>
+</sparql>
